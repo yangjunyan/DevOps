@@ -25,3 +25,23 @@ https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/
 https://dzone.com/articles/why-docker-the-image-api-is-everywhere
 
 https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/12/jenkins-queue-job-build-task/
+
+
+https://github.com/prakhar1989/docker-curriculum
+
+https://hackr.io/tutorials/docker
+
+
+https://docs.docker.com/engine/getstarted/
+
+http://view.dckr.info/DockerIntro.pdf
+
+
+https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem
+
+
+http://odewahn.github.io/docker-jumpstart/
+
+
+## Hands on
+[Browser-Based Lab](https://www.katacoda.com/courses/docker)
