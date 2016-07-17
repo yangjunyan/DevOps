@@ -1,48 +1,27 @@
 # Docker
 
-Start here - https://github.com/veggiemonk/awesome-docker
+## Start here 
+* [Awesome Docker1](https://github.com/veggiemonk/awesome-docker)
+* [Awesome Docker2](https://github.com/anildigital/awesome-docker)
+* [Awesome Docker3](https://github.com/tcnksm/awesome-container)
+* [Awesome Docker4]((https://libraries.io/github/tomzhang/awesome-docker)
 
-https://github.com/anildigital/awesome-docker
+## Docker Intro
+* [Docker Intro](http://view.dckr.info/DockerIntro.pdf)
+* [10 Part Docker Tutorial Series ](docker-tutorial-series-part-1)
+* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
+* [Docker Documentaion](https://docs.docker.com/engine/getstarted/)
+* [Collection of Docker Tutorials](https://hackr.io/tutorials/docker)
 
-https://github.com/tcnksm/awesome-container
-
-https://libraries.io/github/tomzhang/awesome-docker
-
-Projects - https://blog.docker.com/2013/07/docker-projects-from-the-docker-community/
-
-http://www.tjmaher.com/2016/07/using-docker-jenkins-for-continuous.html
-
-http://www.schibsted.pl/blog/5-cool-github-docker-projects/
-
-https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/
-
-https://blog.docker.com/2016/07/live-debugging-docker/
-
-http://2016.dockercon.com/blog
-
-https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/
-
-https://dzone.com/articles/why-docker-the-image-api-is-everywhere
-
-https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/12/jenkins-queue-job-build-task/
-
-
-https://github.com/prakhar1989/docker-curriculum
-
-https://hackr.io/tutorials/docker
-
-
-https://docs.docker.com/engine/getstarted/
-
-http://view.dckr.info/DockerIntro.pdf
-
-
-https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem
-
-
-http://odewahn.github.io/docker-jumpstart/
-
+## Projects 
+* [Awesome Projects From The Docker Community](https://blog.docker.com/2013/07/docker-projects-from-the-docker-community/)
+* [Using Docker + Jenkins for Continuous Integration](http://www.tjmaher.com/2016/07/using-docker-jenkins-for-continuous.html)
+* [5 COOL GITHUB DOCKER PROJECTS](http://www.schibsted.pl/blog/5-cool-github-docker-projects/)
+* [DockerCon 2016 Videos: Use Case Track](https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/)
 
 ## Hands on
-[Browser-Based Lab](https://www.katacoda.com/courses/docker)
-[Good Handon Basic and Advanced](http://view.dckr.info/)
+* [Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
+* [Browser-Based Lab](https://www.katacoda.com/courses/docker)
+* [Good Handon Basic and Advanced](http://view.dckr.info/)
+* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum
+* [Live Debugging Docker](https://blog.docker.com/2016/07/live-debugging-docker/
