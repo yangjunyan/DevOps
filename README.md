@@ -4,7 +4,7 @@
 * [Awesome Docker1](https://github.com/veggiemonk/awesome-docker)
 * [Awesome Docker2](https://github.com/anildigital/awesome-docker)
 * [Awesome Docker3](https://github.com/tcnksm/awesome-container)
-* [Awesome Docker4]((https://libraries.io/github/tomzhang/awesome-docker)
+* [Awesome Docker4](https://libraries.io/github/tomzhang/awesome-docker)
 
 ## Docker Intro
 * [Docker Intro](http://view.dckr.info/DockerIntro.pdf)
@@ -23,5 +23,5 @@
 * [Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 * [Browser-Based Lab](https://www.katacoda.com/courses/docker)
 * [Good Handon Basic and Advanced](http://view.dckr.info/)
-* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum
-* [Live Debugging Docker](https://blog.docker.com/2016/07/live-debugging-docker/
+* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
+* [Live Debugging Docker](https://blog.docker.com/2016/07/live-debugging-docker/)
