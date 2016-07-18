@@ -9,6 +9,7 @@
 ## Docker Intro
 * [Docker Intro](http://view.dckr.info/DockerIntro.pdf)
 * [10 Part Docker Tutorial Series ](docker-tutorial-series-part-1)
+* [Series: How to create your own website based on Docker](https://github.com/mastix/project-webdev-docker-demo)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * [Docker Documentaion](https://docs.docker.com/engine/getstarted/)
 * [Collection of Docker Tutorials](https://hackr.io/tutorials/docker)
@@ -18,7 +19,10 @@
 * [Using Docker + Jenkins for Continuous Integration](http://www.tjmaher.com/2016/07/using-docker-jenkins-for-continuous.html)
 * [5 COOL GITHUB DOCKER PROJECTS](http://www.schibsted.pl/blog/5-cool-github-docker-projects/)
 * [DockerCon 2016 Videos: Use Case Track](https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/)
-
+* [Docker Networking and DNS](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
+* [Microservices: The Essential Practices](https://technologyconversations.com/2015/11/10/microservices-the-essential-practices/)
+* [Scaling To Infinity with Docker Swarm, Docker Compose and Consul](https://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-14-a-taste-of-what-is-to-come/)
+* 
 ## Hands on.
 * [Sample Docker Projects](https://github.com/ka2er/docker-files)
 * [Sample Projects](https://github.com/Microsoft/dockertools-sampleprojects)
