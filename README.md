@@ -3,6 +3,12 @@
 ## Code Snippets
 * [Rams Codes Snippets Collection](https://github.com/ramyrams/Docker/blob/master/CodeSnippets.md)
 
+## Linux Commands
+* [Basic Ubuntu Commands for Beginner](http://techlog360.com/2016/07/basic-ubuntu-commands-terminal-shortcuts-linux-beginner/)
+* [Linux Bash Shell Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+* [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
+
 ## Start here 
 * [Awesome Docker1](https://github.com/veggiemonk/awesome-docker)
 * [Awesome Docker2](https://github.com/anildigital/awesome-docker)
