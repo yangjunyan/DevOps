@@ -7,6 +7,8 @@
 * [Basic Ubuntu Commands for Beginner](http://techlog360.com/2016/07/basic-ubuntu-commands-terminal-shortcuts-linux-beginner/)
 * [Linux Bash Shell Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 * [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [50 Most Frequently Used UNIX / Linux Commands](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
+
 
 
 ## Start here 
