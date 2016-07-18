@@ -8,7 +8,7 @@
 * [Linux Bash Shell Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 * [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [50 Most Frequently Used UNIX / Linux Commands](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
-
+* [THE ONE PAGE LINUX MANUAL](http://www.digilife.be/quickreferences/QRC/The%20One%20Page%20Linux%20Manual.pdf)
 
 
 ## Start here 
