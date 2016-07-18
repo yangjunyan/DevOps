@@ -20,7 +20,8 @@
 * [DockerCon 2016 Videos: Use Case Track](https://blog.docker.com/2016/07/dockercon-2016-videos-use-case/)
 
 ## Hands on.
-*[Sample Projects](https://github.com/Microsoft/dockertools-sampleprojects)
+* [Sample Docker Projects](https://github.com/ka2er/docker-files)
+* [Sample Projects](https://github.com/Microsoft/dockertools-sampleprojects)
 * [Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 * [Browser-Based Lab](https://www.katacoda.com/courses/docker)
 * [Good Handon Basic and Advanced](http://view.dckr.info/)
