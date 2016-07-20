@@ -37,7 +37,7 @@
 * [Docker Networking and DNS](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
 * [Microservices: The Essential Practices](https://technologyconversations.com/2015/11/10/microservices-the-essential-practices/)
 * [Scaling To Infinity with Docker Swarm, Docker Compose and Consul](https://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-14-a-taste-of-what-is-to-come/)
-* 
+ 
 ## Hands on.
 * [Sample Docker Projects](https://github.com/ka2er/docker-files)
 * [Sample Projects](https://github.com/Microsoft/dockertools-sampleprojects)
