@@ -154,7 +154,7 @@ sudo docker run busybox-1 [ -d /home/test ] && echo 'Directory found' || echo 'D
 ##build    
 ##history  
 ##images   
-```
+```docker
 $ docker images			//Listing the most recently created images
 $ docker images java	//Listing images by name 
 $ docker images java:8	//Listing images by name and tag
