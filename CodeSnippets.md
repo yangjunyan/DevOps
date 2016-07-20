@@ -13,61 +13,10 @@ Docker management commands
 [Detailed commands](http://docs.master.dockerproject.org/engine/reference/commandline/)
 
 
+[Dockerfile reference](http://docs.master.dockerproject.org/engine/reference/builder/)
 
 
-| Command  | When to use it |
-| -------- | -------------- |
-| create   | Create a new container |
-| attach   | Attach to a running container |
-| kill     | Kill a running container |
-| ps       | List containers |
-| rename   | Rename a container |
-| restart  | Restart a container |
-| rm       | Remove one or more containers |
-| run      | Run a command in a new container |
-| logs     | Fetch the logs of a container |
-| start    | Start one or more stopped containers |
-| stats    | Display a live stream of container(s) resource usage statistics |
-| stop     | Stop a running container |
-| cp       | Copy files/folders between a container and the local filesystem |
-| diff     | Inspect changes on a container's filesystem |
-| exec     | Run a command in a running container |
-| pause    | Pause all processes within a container |
-| top      | Display the running processes of a container |
-| unpause  | Unpause all processes within a container |
-| update   | Update resources of one or more containers |
-
-
-| Command  | When to use it |
-| -------- | -------------- |
-| commit   | Create a new image from a container's changes | 
-| build    | Build an image from a Dockerfile |
-| history  | Show the history of an image |
-| images   | List images |
-| rmi      | Remove one or more images |
-| port     | List port mappings or a specific mapping for the CONTAINER |
-| pull     | Pull an image or a repository from a registry |
-| push     | Push an image or a repository to a registry |
-| save     | Save an image(s) to a tar archive |
-| load     | Load an image from a tar archive or STDIN |
-| search   | Search the Docker Hub for images |
-| tag      | Tag an image into a repository |
-
-| Command  | When to use it |
-| -------- | -------------- |
-| events   | Get real time events from the server |
-| export   | Export a container's filesystem as a tar archive |
-| import   | Import the contents from a tarball to create a filesystem image |
-| info     | Display system-wide information |
-| inspect  | Return low-level information on a container or image |
-| login    | Register or log in to a Docker registry |
-| logout   | Log out from a Docker registry |
-| network  | Manage Docker networks |
-| version  | Show the Docker version information |
-| volume   | Manage Docker volumes |
-| wait     | Block until a container stops, then print its exit code |
-
-
+### Sample Docker commands 
 ```
 // we pull a base Docker image called busybox
 // just like in the official Hello-World-example
@@ -193,3 +142,118 @@ $ docker images --format "{{.ID}}: {{.Repository}}"		#Formatting
 ##version  
 ##volume   	
 ##wait     	
+
+
+
+
+### Sample Docker files
+```
+
+# Comment
+# INSTRUCTION arguments
+
+RUN echo 'we are running some # of cool things'
+
+
+# directives
+tive=value
+
+FROM ImageName
+
+FROM windowsservercore
+COPY testfile.txt c:\\
+RUN dir c:\
+
+FROM <image>
+FROM <image>:<tag>
+FROM <image>@<digest>
+
+MAINTAINER <name>
+
+
+RUN /bin/bash -c 'source $HOME/.bashrc ; echo $HOME'
+
+
+FROM ubuntu
+CMD echo "This is a test." | wc -
+
+LABEL "com.example.vendor"="ACME Incorporated"
+LABEL com.example.label-with-value="foo"
+LABEL version="1.0"
+LABEL description="This text illustrates \
+that label-values can span multiple lines."
+
+
+ENV myName="John Doe" myDog=Rex\ The\ Dog \     myCat=fluffy
+
+ENV myName John Doe
+ENV myDog Rex The Dog
+ENV myCat fluffy
+
+
+ADD hom* /mydir/        # adds all files starting with "hom"
+ADD hom?.txt /mydir/    # ? is replaced with any single character, e.g., "home.txt
+ADD test relativeDir/          # adds "test" to `WORKDIR`/relativeDir/
+ADD test /absoluteDir/         # adds "test" to /absoluteDir/
+
+
+COPY hom* /mydir/        # adds all files starting with "hom"
+COPY hom?.txt /mydir/    # ? is replaced with any single character, e.g., "home.txt"
+COPY test relativeDir/   # adds "test" to `WORKDIR`/relativeDir/
+COPY test /absoluteDir/  # adds "test" to /absoluteDir/
+
+
+docker run -i -t --rm -p 80:80 nginx
+
+
+FROM ubuntu
+ENTRYPOINT ["top", "-b"]
+CMD ["-c"]
+
+
+FROM debian:stable
+RUN apt-get update && apt-get install -y --force-yes apache2
+EXPOSE 80 443
+VOLUME ["/var/www", "/var/log/apache2", "/etc/apache2"]
+ENTRYPOINT ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
+
+
+FROM ubuntu
+RUN mkdir /myvol
+RUN echo "hello world" > /myvol/greeting
+VOLUME /myvol
+
+USER daemon
+
+WORKDIR /path/to/workdir
+WORKDIR /a
+WORKDIR b
+RUN pwd
+
+FROM busybox
+ARG user1=someuser
+ARG buildno=1
+
+FROM busybox
+USER ${user:-some_user}
+ARG user
+USER $user
+
+
+ONBUILD ADD . /app/src
+ONBUILD RUN /usr/local/bin/python-build --dir /app/src
+
+
+STOPSIGNAL signal
+
+
+HEALTHCHECK --interval=5m --timeout=3s  CMD curl -f http://localhost/ || exit 1
+
+
+FROM windowsservercore
+SHELL ["powershell","-command"]
+RUN New-Item -ItemType Directory C:\Example
+ADD Execute-MyCmdlet.ps1 c:\example\
+RUN c:\example\Execute-MyCmdlet -sample 'hello world'
+
+```
