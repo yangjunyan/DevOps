@@ -42,6 +42,21 @@
 | search   | Search the Docker Hub for images |
 | tag      | Tag an image into a repository |
 
+| Command  | When to use it |
+| -------- | -------------- |
+| events   | Get real time events from the server |
+| export   | Export a container's filesystem as a tar archive |
+| import   | Import the contents from a tarball to create a filesystem image |
+| info     | Display system-wide information |
+| inspect  | Return low-level information on a container or image |
+| login    | Register or log in to a Docker registry |
+| logout   | Log out from a Docker registry |
+| network  | Manage Docker networks |
+| version  | Show the Docker version information |
+| volume   | Manage Docker volumes |
+| wait     | Block until a container stops, then print its exit code |
+
+
 ##create   
 ##attach   
 ##kill     	
