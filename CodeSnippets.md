@@ -57,6 +57,79 @@
 | wait     | Block until a container stops, then print its exit code |
 
 
+```
+// we pull a base Docker image called busybox
+// just like in the official Hello-World-example
+sudo docker pull busybox
+ 
+// let's check which images we have 
+// we should see the image busybox
+sudo docker images
+ 
+//now we make changes to a container of this image
+// in this case we make a new folder
+//sudo docker run busybox mkdir /home/test
+ 
+//let's check which containers we now have
+//note that the container stops after each command
+//we should see a busybox container with our command
+sudo docker ps -a
+ 
+//now we can commit this changed container
+// this will create a new image called busybox-1
+//you see the <CONTAINER ID> with the command above
+sudo docker commit <CONTAINER ID> busybox-1
+ 
+// let's check which images we have now
+// we should see the image busybox and busybox-1
+sudo docker images
+ 
+// to see the difference between both images we
+// can use the following check for folders:
+sudo docker run busybox [ -d /home/test ] && echo 'Directory found' || echo 'Directory not found'
+sudo docker run busybox-1 [ -d /home/test ] && echo 'Directory found' || echo 'Directory not found'
+
+
+## Export
+// <CONTAINER ID>
+docker ps -a
+
+//export a container 
+docker export <CONTAINER ID> /home/export.tar
+
+## Save
+//docker images
+docker images
+
+
+//To save an image
+docker save busybox-1 > /home/save.tar
+
+
+## difference
+// first we see which containers we have
+sudo docker ps -a
+ 
+// now we remove all of them
+sudo docker rm <CONTAINER ID>
+ 
+// now we see which images we have
+sudo docker images
+ 
+// and we remove them too
+sudo docker rmi busybox-1
+sudo docker rmi busybox
+
+// import the exported tar ball:
+docker load < /home/save.tar
+
+// check the available images
+sudo docker images
+
+// and check if a new container made from this image contains our folder (it does!)
+sudo docker run busybox-1 [ -d /home/test ] && echo 'Directory found' || echo 'Directory not found'
+```
+
 ##create   
 ##attach   
 ##kill     	
