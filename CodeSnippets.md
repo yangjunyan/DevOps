@@ -154,6 +154,14 @@ sudo docker run busybox-1 [ -d /home/test ] && echo 'Directory found' || echo 'D
 ##build    
 ##history  
 ##images   
+```
+$ docker images			//Listing the most recently created images
+$ docker images java	//Listing images by name 
+$ docker images java:8	//Listing images by name and tag
+$ docker images --digests	//Listing the full length image ID
+$ docker images --filter "dangling=true"				//Filtering
+$ docker images --format "{{.ID}}: {{.Repository}}"		//Formatting
+```
 ##rmi      
 ##port     
 ##pull     
