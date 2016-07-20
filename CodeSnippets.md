@@ -25,7 +25,23 @@
 | top      | Display the running processes of a container |
 | unpause  | Unpause all processes within a container |
 | update   | Update resources of one or more containers |
-	
+
+
+| Command  | When to use it |
+| -------- | -------------- |
+| commit   | Create a new image from a container's changes | 
+| build    | Build an image from a Dockerfile |
+| history  | Show the history of an image |
+| images   | List images |
+| rmi      | Remove one or more images |
+| port     | List port mappings or a specific mapping for the CONTAINER |
+| pull     | Pull an image or a repository from a registry |
+| push     | Push an image or a repository to a registry |
+| save     | Save an image(s) to a tar archive |
+| load     | Load an image from a tar archive or STDIN |
+| search   | Search the Docker Hub for images |
+| tag      | Tag an image into a repository |
+
 ##create   
 ##attach   
 ##kill     	
