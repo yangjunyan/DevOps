@@ -1,1 +1,92 @@
 ## Code
+|Command   |When to use it|
+---------------------------
+|create    |Create a new container|
+|attach    |Attach to a running container|
+|kill      |Kill a running container|
+|ps        |List containers|
+|rename    |Rename a container|
+|restart   |Restart a container|
+|rm        |Remove one or more containers|
+|run       |Run a command in a new container|
+|logs      |Fetch the logs of a container|
+|start     |Start one or more stopped containers|
+|stats     |Display a live stream of container(s) resource usage statistics|
+|stop      |Stop a running container|
+|cp        |Copy files/folders between a container and the local filesystem|
+|diff      |Inspect changes on a container's filesystem|
+|exec      |Run a command in a running container|
+|pause     |Pause all processes within a container|
+|top       |Display the running processes of a container|
+|unpause   |Unpause all processes within a container|
+|update    |Update resources of one or more containers|
+
+|commit    |Create a new image from a container's changes|
+|build     |Build an image from a Dockerfile|
+|history   |Show the history of an image|
+|images    |List images|
+|rmi       |Remove one or more images|
+|port      |List port mappings or a specific mapping for the CONTAINER|
+|pull      |Pull an image or a repository from a registry|
+|push      |Push an image or a repository to a registry|
+|save      |Save an image(s) to a tar archive|
+|load      |Load an image from a tar archive or STDIN|
+|search    |Search the Docker Hub for images|
+|tag       |Tag an image into a repository|
+
+|events    |Get real time events from the server|
+|export    |Export a container's filesystem as a tar archive|
+|import    |Import the contents from a tarball to create a filesystem image|
+|info      |Display system-wide information|
+|inspect   |Return low-level information on a container or image|
+|login     |Register or log in to a Docker registry|
+|logout    |Log out from a Docker registry|
+|network   |Manage Docker networks|
+|version   |Show the Docker version information|
+|volume    |Manage Docker volumes|
+|wait      |Block until a container stops, then print its exit code|
+	
+##create   
+##attach   
+##kill     	
+##ps       	
+##rename   	
+##restart  	
+##rm       	
+##run      	
+##logs     	
+##start    
+##stats    
+##stop     
+##cp       
+##diff     
+##exec     
+##pause    
+##top      
+##unpause  
+##update   
+
+##commit   
+##build    
+##history  
+##images   
+##rmi      
+##port     
+##pull     
+##push     
+##save     
+##load     
+##search   
+##tag      
+
+##events   
+##export   
+##import   
+##info     
+##inspect  
+##login    
+##logout   
+##network  
+##version  
+##volume   	
+##wait     	
