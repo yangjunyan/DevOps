@@ -23,7 +23,7 @@
 
 ![Docker Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/wp-content/uploads/2016/03/Docker-cheat-sheet-by-RebelLabs.png)
 
-![Credit: @krishnan: Docker Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/wp-content/uploads/2016/03/Docker-cheat-sheet-by-RebelLabs.png)
+![Credit: @krishnan: Docker Commands and Best Practices Cheat Sheet](http://i1.wp.com/allthingsplatforms.com/wp-content/uploads/2014/03/Docker-Ecosystem-v0.77.png)
 
 ![Credit: @krishnan: Open Container  Ecosystem](https://www.mindmeister.com/389671722/open-container-ecosystem-formerly-docker-ecosystem)
 
