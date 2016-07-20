@@ -7,6 +7,11 @@
 | Content Cell  | Content Cell  |
 
 
+| Command  | When to use it |
+| -------- | -------------- |
+| create   | Create a new container |
+
+
 |Command   |When to use it|
 ---------------------------
 |create    |Create a new container|
