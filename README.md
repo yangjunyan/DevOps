@@ -53,6 +53,7 @@
 
 ## Docker Intro
 * [Docker Intro](http://view.dckr.info/DockerIntro.pdf)
+* [A Not Very Short Introduction to Docker](https://www.jayway.com/2015/03/21/a-not-very-short-introduction-to-docker/)
 * [10 Part Docker Tutorial Series ](docker-tutorial-series-part-1)
 * [Series: How to create your own website based on Docker](https://github.com/mastix/project-webdev-docker-demo)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
