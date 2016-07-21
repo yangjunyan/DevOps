@@ -22,8 +22,9 @@
  
 
 ![Docker Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/wp-content/uploads/2016/03/Docker-cheat-sheet-by-RebelLabs.png)
-
-
+![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker.png)
+![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker-table.png)
+![Containers](http://www.jayway.com/wp-content/uploads/2015/03/docker-image.png)
 
 ## Docker Mindmaps
 * [Open Container Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
