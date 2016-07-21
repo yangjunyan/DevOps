@@ -13,7 +13,7 @@
 * [Docker Plugins](https://docs.docker.com/engine/extend/plugins/)
 * [Docker API](https://docs.docker.com/engine/reference/api/docker_remote_api/)
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
-* [Kitematic](https://www.docker.com/products/docker-kitematic)
+* [Docker Kitematic](https://www.docker.com/products/docker-kitematic)
 
 ## Docker Ecosystem Read More
 * [Understanding the Docker Ecosystem](https://blog.codeship.com/understanding-the-docker-ecosystem/)
