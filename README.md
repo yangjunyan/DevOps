@@ -73,7 +73,14 @@
 * [Docker Explained: How To Create Docker Containers Running Memcached](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-create-docker-containers-running-memcached)
 * [Docker Explained: How To Containerize and Use Nginx as a Proxy](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-and-use-nginx-as-a-proxy)
 * [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)
-
+* [Getting Started with Docker](https://serversforhackers.com/getting-started-with-docker)
+* [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
+* [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
+* [Docker for Gulp Build Tasks](https://serversforhackers.com/docker-for-gulp-build-tasks)
+* [Getting Started with Docker for AWS and Scaling Nodes](https://www.voxxed.com/blog/2016/07/getting-started-docker-aws-scaling-nodes/)
+* [Monitoring Docker Containers](https://blog.codeship.com/monitoring-docker-containers/)
+* [Docker Infrastructure](https://codeship.com/documentation/docker/)
+* [Docker Integration](https://codeship.com/documentation/docker-integration/)
 
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
