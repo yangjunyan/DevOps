@@ -66,6 +66,9 @@
 * [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)
 
 
+## Advanced 
+* [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
+
 ## Projects 
 * [Awesome Projects From The Docker Community](https://blog.docker.com/2013/07/docker-projects-from-the-docker-community/)
 * [Using Docker + Jenkins for Continuous Integration](http://www.tjmaher.com/2016/07/using-docker-jenkins-for-continuous.html)
