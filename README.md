@@ -32,7 +32,16 @@
 * [container ecosystem](http://www.xmind.net/m/DYNp)
 * [docker ecosystem](http://www.xmind.net/m/RHSz/)
 
+## Docker Cheat Sheet
+* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 
+
+## Docker Plugin
+* [Docker build step plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+build+step+plugin)
+
+## Docker Tips
+* [10 Useful Docker Commands](https://blog.pavelsklenar.com/10-useful-docker-commands-tip-tricks/)
+* [15 Quick Docker Tips](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/)
 
 ## Code Snippets
 * [Rams Codes Snippets Collection](https://github.com/ramyrams/Docker/blob/master/CodeSnippets.md)
