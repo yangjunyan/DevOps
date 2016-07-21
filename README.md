@@ -23,9 +23,15 @@
 
 ![Docker Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/wp-content/uploads/2016/03/Docker-cheat-sheet-by-RebelLabs.png)
 
-![Credit: @krishnan: Docker Commands and Best Practices Cheat Sheet](http://i1.wp.com/allthingsplatforms.com/wp-content/uploads/2014/03/Docker-Ecosystem-v0.77.png)
 
-![Credit: @krishnan: Open Container  Ecosystem](https://www.mindmeister.com/389671722/open-container-ecosystem-formerly-docker-ecosystem)
+
+## Docker Mindmaps
+* [Open Container Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
+* [container](http://www.xmind.net/m/hUix)
+* [container ecosystem](http://www.xmind.net/m/DYNp)
+* [docker ecosystem](http://www.xmind.net/m/RHSz/)
+
+
 
 ## Code Snippets
 * [Rams Codes Snippets Collection](https://github.com/ramyrams/Docker/blob/master/CodeSnippets.md)
@@ -38,7 +44,7 @@
 * [THE ONE PAGE LINUX MANUAL](http://www.digilife.be/quickreferences/QRC/The%20One%20Page%20Linux%20Manual.pdf)
 
 
-## Start here 
+## Awesome Docker List 
 * [Awesome Docker1](https://github.com/veggiemonk/awesome-docker)
 * [Awesome Docker2](https://github.com/anildigital/awesome-docker)
 * [Awesome Docker3](https://github.com/tcnksm/awesome-container)
@@ -51,6 +57,12 @@
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * [Docker Documentaion](https://docs.docker.com/engine/getstarted/)
 * [Collection of Docker Tutorials](https://hackr.io/tutorials/docker)
+* [The Docker Ecosystem Tutorial Series](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components)
+* [Docker Explained: Using Dockerfiles to Automate Building of Images](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
+* [Docker Explained: How To Create Docker Containers Running Memcached](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-create-docker-containers-running-memcached)
+* [Docker Explained: How To Containerize and Use Nginx as a Proxy](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-and-use-nginx-as-a-proxy)
+* [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)
+
 
 ## Projects 
 * [Awesome Projects From The Docker Community](https://blog.docker.com/2013/07/docker-projects-from-the-docker-community/)
