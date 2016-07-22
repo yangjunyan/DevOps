@@ -1,5 +1,32 @@
 # DevOps
 
+DevOps
+* [Understanding DevOps](https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/)
+* [Understanding DevOps: Foster a culture for building better apps faster](https://support.rackspace.com/white-paper/understanding-devops-foster-a-culture-for-building-better-apps-faster/)
+* [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
+* [DevOps the Wall of Confusion understanding the basics of DevOps](https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/06/23/devops-the-wall-of-confusion-understanding-the-basics-of-devops/)
+* [The Product Managers’ Guide to Continuous Delivery and DevOps](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
+* [More IT agility with DevOps and Cloud Computing](http://incyclesoftware.com/services/it-agility-model/)
+* [The Agile in DevOps!](http://blog.sciodev.com/2016/03/28/the-agile-in-devops/)
+
+
+
+## DevOps Values
+## DevOps Principles 
+## DevOps Methods 
+## DevOps Practices
+## DevOps Tools 
+
+
+* Configuration Management
+* Continuous Integration
+* Continuous Inspection
+* Containerization
+* virtualization
+
+
+
+
 ## Containerization
 * Docker
 
