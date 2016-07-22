@@ -112,6 +112,18 @@
 * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
 * [Live Debugging Docker](https://blog.docker.com/2016/07/live-debugging-docker/)
 
+### Dockerfile
+* [Dockerfile Examples](https://github.com/kstaken/dockerfile-examples)
+* [Dockerfile to Docker image to Docker container](https://deis.com/blog/2015/dockerfile-instructions-syntax/)
+* [Using Dockerfiles to Automate Building of Images](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
+
+
+### Hand on Lab
+* [Hello world in a container](https://docs.docker.com/v1.10/engine/userguide/containers/dockerizing/)
+* [Dockerizing a Node.js web app](https://docs.docker.com/v1.10/engine/examples/nodejs_web_app/)
+* [Creating a Dockerfile for MongoDB](https://docs.docker.com/v1.10/engine/examples/mongodb/)
+* [How to use Docker Compose to run complex multi container apps](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
+* 
 ## Video
 * [Building a Microservice using Node.js & Docker](https://www.youtube.com/watch?v=PJ95WY2DqXo)
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
