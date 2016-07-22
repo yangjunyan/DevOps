@@ -104,6 +104,7 @@
 * [Scaling To Infinity with Docker Swarm, Docker Compose and Consul](https://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-14-a-taste-of-what-is-to-come/)
  
 ## Hands on.
+* [Install the VS Code Docker extension](https://code.visualstudio.com/docs/languages/dockerfile)
 * [Sample Docker Projects](https://github.com/ka2er/docker-files)
 * [Sample Projects](https://github.com/Microsoft/dockertools-sampleprojects)
 * [Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
