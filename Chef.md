@@ -1,5 +1,45 @@
 
 
+## Learn Chef
+
+* [New to Chef? Start here for 24 hours free VM](https://learn.chef.io/tutorials/)
+* [Getting started with chef](http://gettingstartedwithchef.com/)
+* [Opscode Video Channel](https://www.youtube.com/user/Opscode)
+* [Infrastructure as Code with Chef](https://semaphoreci.com/community/series/infrastructure-as-code-with-chef)
+
+> End of this, should be able to descript Chef Architecture, automate common infrastructure tasks with Chef, understanding of various Chef's tools and apply Chef's primitives to solve your problems.
+
+## Awesome Chef
+* [A curated list of amazingly awesome Chef resources](https://github.com/obazoud/awesome-chef) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+
+#Chef Training
+* [Learning Chef DevOps Deployment](https://linuxacademy.com/devops/training/course/name/chef-essentials)
+* [Official Chef Training Page](https://training.chef.io/)
+
+
+## Certification
+https://training.chef.io/certification
+
+
+
+## Chef Tools & Plugins
+* Knife Plugin
+* Ohai Plugin
+* Chef Tool
+* Handler
+* Provisioning Driver
+* Kitchen Driver
+* Powershell Module
+* DSC Resource
+* Compliance Profile
+
+
+
+## userful URLs
+
+* [5 Important Skills for Automation Experts to Have](https://www.upguard.com/blog/5-important-skills-automation-experts)
+
 
 ## Github Chef Project
 * [final Chef code produced during the Chef Fundamentals course](https://github.com/chef-training/chef-fundamentals-repo)
