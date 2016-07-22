@@ -75,6 +75,7 @@
 * [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)
 * [Getting Started with Docker](https://serversforhackers.com/getting-started-with-docker)
 * [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
+* [Simplifying Technical Presentations with Docker](http://andrewconnell.com/blog/simplifying-technical-presentations-with-docker)
 * [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
 * [Docker for Gulp Build Tasks](https://serversforhackers.com/docker-for-gulp-build-tasks)
 * [Getting Started with Docker for AWS and Scaling Nodes](https://www.voxxed.com/blog/2016/07/getting-started-docker-aws-scaling-nodes/)
