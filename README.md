@@ -11,6 +11,14 @@ DevOps
 
 
 
+## URL
+
+* [Now we know DevOps, how to understand DevOps metrics](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics)
+* [“DevOps” an Extension of Agile Methodology – How It will Impact QA?](http://www.softwaretestinghelp.com/devops-and-software-testing/)
+* [12 Awesome tools to make DevOps effective](https://medium.com/@MarutiTech/12-awesome-tools-to-make-devops-effective-769f6f7b38a3#.fovievmbu)
+* [DevOps Architect workshop](https://www.linkedin.com/pulse/3-days-devops-architect-workshop-change-leader-your-kumar)
+* 
+
 ## DevOps Values
 ## DevOps Principles 
 ## DevOps Methods 
