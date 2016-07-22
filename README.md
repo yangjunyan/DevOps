@@ -12,7 +12,7 @@ DevOps
 * [The Product Managers’ Guide to Continuous Delivery and DevOps](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
 * [More IT agility with DevOps and Cloud Computing](http://incyclesoftware.com/services/it-agility-model/)
 * [The Agile in DevOps!](http://blog.sciodev.com/2016/03/28/the-agile-in-devops/)
-
+* [DevOps is Neither a Method nor a Tool, it’s a Culture](http://www.edureka.co/blog/devops-is-neither-a-method-nor-a-tool-its-a-culture/)
 
 
 ## URL
