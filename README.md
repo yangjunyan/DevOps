@@ -1,5 +1,9 @@
 # DevOps
 
+
+## Image Speaks
+* [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
+
 DevOps
 * [Understanding DevOps](https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/)
 * [Understanding DevOps: Foster a culture for building better apps faster](https://support.rackspace.com/white-paper/understanding-devops-foster-a-culture-for-building-better-apps-faster/)
