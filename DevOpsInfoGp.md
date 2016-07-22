@@ -6,6 +6,7 @@
 ![1](https://d262ilb51hltx0.cloudfront.net/max/1080/1*oC9YWE6TigD6lBkWsV0Qkw.jpeg)
 ![1](http://devops.com/wp-content/uploads/2015/10/DOES1-1024x563.png)
 ![1](http://blog.sciodev.com/files/2016/03/DEVOPS-Team.jpg)
+![1](http://www.mindtheproduct.com/wp-content/uploads/2015/12/409-images-for-snap-blog-postedit_image1.png)
 ![1](https://s-media-cache-ak0.pinimg.com/originals/5e/38/92/5e3892c5467701035aadf7f1bbc86432.jpg)
 ![1](http://www.www8-hp.com/us/en/images/dev_ops_infographic_revised_tcm245_1999650_tcm245_1999654_tcm245-1999650.jpg)
 ![1](http://s3.amazonaws.com/umweb/uploads/2016/05/05210142/DevOps-Continuous-Delivery.jpg)
