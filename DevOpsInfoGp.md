@@ -40,6 +40,4 @@
 ![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/p/3/005/0ab/0dc/3222efb.png)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/67/23/31/672331151cbbafb6f917fbf8b96d2c80.jpg)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/f0/1d/f8/f01df833a4eb6c8bd18da94eeb08e16c.jpg)
-![1](http://www.incimages.com/uploaded_files/inlineimage/630x0/Product-Launch-Checklist-infographic_31312.png)
-![1](https://s-media-cache-ak0.pinimg.com/564x/3d/fb/b9/3dfbb960e450d00116765d89138ed9de.jpg)
-![1](https://s-media-cache-ak0.pinimg.com/564x/b0/3d/67/b03d6794fb787492bea0f41a8144a37d.jpg)
+
