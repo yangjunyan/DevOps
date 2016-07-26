@@ -6,7 +6,6 @@
 * [Docker Machine](https://www.docker.com/products/docker-machine) (Host provisioning)
 * [Docker Compose](https://www.docker.com/products/docker-compose)  (Container Orchestration)
 * [Docker Swarm](https://www.docker.com/products/docker-swarm) (Host clustering)
-* [Docker Orca] (Application management)
 * [Docker Kitematic](https://www.docker.com/products/docker-kitematic)  (GUI)
 * [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 * [Docker Registry](https://docs.docker.com/registry/)
