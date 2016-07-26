@@ -64,3 +64,8 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [Puppet versus Chef](http://bitfieldconsulting.com/puppet-vs-chef)
 * [Puppet vs. Chef - The Battle Wages On](https://www.upguard.com/blog/puppet-vs-chef-battle-wages)
 * [Puppet vs. Chef Revisited](https://www.upguard.com/articles/puppet-vs.-chef-revisited)
+
+
+## YAML
+* [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/)
+* [Understanding YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
