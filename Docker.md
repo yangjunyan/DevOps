@@ -1,11 +1,13 @@
 # Docker
 
 ## Docker Ecosystem
-* [Docker Hub](https://hub.docker.com/)
-* [Docker Engine](https://www.docker.com/products/docker-engine)
-* [Docker Machine](https://www.docker.com/products/docker-machine)
-* [Docker Compose](https://www.docker.com/products/docker-compose)
-* [Docker Swarm](https://www.docker.com/products/docker-swarm)
+* [Docker Hub](https://hub.docker.com/)   (Registry)
+* [Docker Engine](https://www.docker.com/products/docker-engine)  (Docker Daemon)
+* [Docker Machine](https://www.docker.com/products/docker-machine) (Host provisioning)
+* [Docker Compose](https://www.docker.com/products/docker-compose)  (Container Orchestration)
+* [Docker Swarm](https://www.docker.com/products/docker-swarm) (Host clustering)
+* [Docker Orca] (Application management)
+* [Docker Kitematic](https://www.docker.com/products/docker-kitematic)  (GUI)
 * [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 * [Docker Registry](https://docs.docker.com/registry/)
 * [Docker Notary](https://github.com/docker/notary)
@@ -13,7 +15,7 @@
 * [Docker Plugins](https://docs.docker.com/engine/extend/plugins/)
 * [Docker API](https://docs.docker.com/engine/reference/api/docker_remote_api/)
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
-* [Docker Kitematic](https://www.docker.com/products/docker-kitematic)
+
 
 ## Docker Ecosystem Read More
 * [Understanding the Docker Ecosystem](https://blog.codeship.com/understanding-the-docker-ecosystem/)
