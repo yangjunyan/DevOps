@@ -139,3 +139,11 @@
 * [Building a Continuous Delivery Pipeline with Gradle and Jenkins](https://www.youtube.com/watch?v=gG4k3I7jJvc)
 * [Lessons learned: ASP.NET Core 1.0 + Docker in Production - Jeremy Cade](https://www.youtube.com/watch?v=70OLQCNklBc)
 * [Deploying a Scalable Node.js Application with Docker](https://www.youtube.com/watch?v=uhNpSWI8MTM)
+
+
+
+
+## Docker
+* [Git, Windows, and Docker](https://dzone.com/articles/git-windows-and-docker)
+* [The Docker Podcast](https://soundcloud.com/docker-run)
+* [ DockerCon sessions](https://www.youtube.com/playlist?list=PLkA60AVN3hh9gnrYwNO6zTb9U3i1Y9FMY)
