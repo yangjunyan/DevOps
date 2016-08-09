@@ -19,6 +19,11 @@
 * [Docker API](https://docs.docker.com/engine/reference/api/docker_remote_api/)
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
 
+## Tools
+* [Fig - Fast, isolated development environments using Docker.](http://www.fig.sh/)
+* [Flocker](https://docs.clusterhq.com/en/latest/)
+* [Top 10 Open-Source Docker Developer Tools](https://www.ctl.io/developers/blog/post/top-10-open-source-docker-developer-tools/)
+
 
 ## Docker Ecosystem Read More
 * [Understanding the Docker Ecosystem](https://blog.codeship.com/understanding-the-docker-ecosystem/)
@@ -85,7 +90,8 @@
 * [Monitoring Docker Containers](https://blog.codeship.com/monitoring-docker-containers/)
 * [Docker Infrastructure](https://codeship.com/documentation/docker/)
 * [Docker Integration](https://codeship.com/documentation/docker-integration/)
-
+* [How to scale Docker containers in production](http://stackoverflow.com/questions/18285212/how-to-scale-docker-containers-in-production)
+ 
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
 
