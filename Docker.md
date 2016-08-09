@@ -23,6 +23,7 @@
 * [Fig - Fast, isolated development environments using Docker.](http://www.fig.sh/)
 * [Flocker](https://docs.clusterhq.com/en/latest/)
 * [Top 10 Open-Source Docker Developer Tools](https://www.ctl.io/developers/blog/post/top-10-open-source-docker-developer-tools/)
+* [10 Open Source Docker Tools You Should Be Using](http://www.midvision.com/blog/10-open-source-docker-tools-you-should-be-using)
 
 
 ## Docker Ecosystem Read More
@@ -73,6 +74,9 @@
 * [A Not Very Short Introduction to Docker](https://www.jayway.com/2015/03/21/a-not-very-short-introduction-to-docker/)
 * [10 Part Docker Tutorial Series ](docker-tutorial-series-part-1)
 * [Series: How to create your own website based on Docker](https://github.com/mastix/project-webdev-docker-demo)
+* [Docker and Containers Series](http://www.virtualizationadmin.com/articles-tutorials/cloud-computing/microsoft/docker-and-containers-part1.html)
+* [Containerization Proliferation Series](http://www.windowsnetworking.com/articles-tutorials/cloud-computing/containerization-proliferation-docker-effect-part1.html)
+
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * [Docker Documentaion](https://docs.docker.com/engine/getstarted/)
 * [Collection of Docker Tutorials](https://hackr.io/tutorials/docker)
@@ -94,6 +98,14 @@
  
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
+
+
+## Docker workflow
+* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/)
+* [What would be a good docker webdev workflow?](http://stackoverflow.com/questions/20164466/what-would-be-a-good-docker-webdev-workflow)
+* [Docker, Rails, & Docker Compose together in your development workflow](http://blog.carbonfive.com/2015/03/17/docker-rails-docker-compose-together-in-your-development-workflow/)
+* [Workflows: using Docker Machine and Docker Compose together in development](https://alexanderzeitler.com/articles/docker-machine-and-docker-compose-developer-workflows/)
+
 
 ## Projects 
 * [Awesome Projects From The Docker Community](https://blog.docker.com/2013/07/docker-projects-from-the-docker-community/)
@@ -157,3 +169,15 @@
 * [Git, Windows, and Docker](https://dzone.com/articles/git-windows-and-docker)
 * [The Docker Podcast](https://soundcloud.com/docker-run)
 * [ DockerCon sessions](https://www.youtube.com/playlist?list=PLkA60AVN3hh9gnrYwNO6zTb9U3i1Y9FMY)
+
+
+## URL
+* [Containers 101: Docker fundamentals](http://www.infoworld.com/article/3077875/linux/containers-101-docker-fundamentals.html)
+* [Nine must read container blog posts](http://containerjournal.com/2015/07/08/nine-must-read-container-blog-posts/)
+* [Why You Should Stop Installing Your WebDev Environment Locally](https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/)
+* [Docker: VMs, Code Migration, and SOA Solved](http://www.codeproject.com/Articles/861625/Docker-VMs-Code-Migration-and-SOA-Solved)
+* [Debugging mocha tests in a Docker container using Visual Studio Code](https://alexanderzeitler.com/articles/debugging-mocha-tests-in-a-docker-container-using-visual-studio-code/)
+* [Debugging mocha tests with Visual Studio Code when Node.js is installed using nvm](https://alexanderzeitler.com/articles/debugging-mocha-tests-using-visual-studio-code-and-nvm/)
+* [Deploying a private, secured Docker Registry within 15 minutes](https://alexanderzeitler.com/articles/deploying-a-private-secured-docker-registry-within-15-minutes/)
+* [Docker at Shopify: How we built containers that power over 100,000 online shops](https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
+
