@@ -6,6 +6,7 @@
 
 DevOps
 * [Understanding DevOps](https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/)
+* [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.t8qxwd2h0)
 * [Understanding DevOps: Foster a culture for building better apps faster](https://support.rackspace.com/white-paper/understanding-devops-foster-a-culture-for-building-better-apps-faster/)
 * [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 * [DevOps the Wall of Confusion understanding the basics of DevOps](https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/06/23/devops-the-wall-of-confusion-understanding-the-basics-of-devops/)
