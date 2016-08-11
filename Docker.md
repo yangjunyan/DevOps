@@ -99,6 +99,12 @@
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
 
+## Use Cases
+* [Building Dockers with Maven for Continuous Integration](https://www.alooma.com/blog/building-dockers)
+* [Docker at Spotify](Docker at Spotify)
+* [32 Docker Case Studies](http://www.featuredcustomers.com/vendor/docker/case-studies)
+* [Docker HackDay UseCase: Auto-Deployment with Git/Jenkins](https://www.youtube.com/watch?v=Q1l-WoJ7I7M)
+
 
 ## Docker workflow
 * [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/)
@@ -168,6 +174,44 @@
 * [SA Home Loans Adopts Microservices And Deploys 20-30 Times a Day With Docker Datacenter](https://www.docker.com/sites/default/files/DOC_SA_CaseStudy_04252015_V2%20%282%29%5B2%5D.pdf)
 
 
+
+## Reference Architecture 
+* [Building a Continuous Integration Pipeline with Docker](https://www.docker.com/sites/default/files/RA_CI%20with%20Docker_08.25.2015.pdf)
+* [A Case Study in Enabling DevOps Using Docker](https://repositories.lib.utexas.edu/bitstream/handle/2152/32322/SANDOVAL-MASTERSREPORT-2015.pdf)
+* [ING Delivers Value to Customers Faster with 1,500 deployments a week with Docker](https://www.docker.com/sites/default/files/CS_ING_01.25.2015_1.pdf)
+* [BBC News Slashes Continuous Integration Job Time over 60% with Docker](https://www.docker.com/sites/default/files/CS_BBCNews_01.25.2015_1.pdf)
+
+* [Bleacher Report Innovates Faster at Scale with Docker](https://www.docker.com/sites/default/files/2015-02-28%20Bleacher%20Report%201.2%20%281%29.pdf)
+
+## Whitepapers
+* [Modern App Architecture for the Enterprise](https://www.docker.com/sites/default/files/WP_ModernAppArchitecture_07.18.2016.pdf)
+* [Understanding Docker Data Storage and Persistence](https://www.docker.com/sites/default/files/Understanding-Docker-Data-Storage-WP-rev3.pdf)
+* [Making The Transition to DevOps](https://www.docker.com/sites/default/files/Docker%20Transition%20to%20DevOps.pdf)
+* [The Definitive Guide To Docker Containers](https://www.docker.com/sites/default/files/WP-%20Definitive%20Guide%20To%20Containers.pdf)
+* [Introduction to Container Security](https://www.docker.com/sites/default/files/WP_Intro%20to%20container%20security_03.20.2015%20%281%29.pdf)
+* [Docker and the Three Ways of DevOps](https://www.docker.com/sites/default/files/WP_Docker%20and%20the%203%20ways%20devops_07.31.2015%20%281%29.pdf)
+
+
+
+## Technical Briefs
+* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016.pdf)
+* [Docker Universal Control Plane](https://www.docker.com/sites/default/files/DCR_UniversalControlPlane_TechBrief_070716_v1.pdf)
+* [Understanding Docker Registries](https://www.docker.com/sites/default/files/Guide%20to%20Docker%20Registries_V3_4%3A25%3A16.pdf)
+* [Docker Hub](https://www.docker.com/sites/default/files/Docker%20Hub_0.pdf)
+* [Docker Cloud](https://www.docker.com/sites/default/files/DK_DockerCloud_05112016.pdf)
+* [Docker Trusted Registry](https://www.docker.com/sites/default/files/DCR_TrustedRegistry_TechBrief_070716_v1.pdf)
+* [Docker Swarm](https://www.docker.com/sites/default/files/Docker%20Swarm_0.pdf)
+* [Delivering Containers-as-a-Service (CaaS) with Docker Datacenter](https://www.docker.com/sites/default/files/DCR_CaaS_Datasheet_070716_v1.pdf)
+* [Infrastructure Optimization with Docker](https://www.docker.com/sites/default/files/SB_Infrastructure%20Optimization%2006.03.2016.pdf)
+* [Delivering Containers-as-a-Service (CaaS) With Docker Datacenter](https://www.docker.com/sites/default/files/DR_Datasheet_Caas%20Datacenter_042716_V2-2_3.pdf)
+
+## webinars
+* [Docker Webinars](https://www.docker.com/products/resources/webinars)
+
+
+## VIDEO TUTORIALS
+* [Docker Video Tutorial](https://www.docker.com/products/resources/video-tutorials)
+* 
 ## Docker
 * [Git, Windows, and Docker](https://dzone.com/articles/git-windows-and-docker)
 * [The Docker Podcast](https://soundcloud.com/docker-run)
