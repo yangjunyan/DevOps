@@ -1,6 +1,9 @@
 # DevOps
 
-
+## Basic
+* [Awesome Sysadmin](https://github.com/itech001/awesome-sysadmin)
+* [continuous integration and continuous delivery](https://github.com/ciandcd/awesome-ciandcd)
+* 
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
 
