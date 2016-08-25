@@ -95,7 +95,16 @@
 * [Docker Infrastructure](https://codeship.com/documentation/docker/)
 * [Docker Integration](https://codeship.com/documentation/docker-integration/)
 * [How to scale Docker containers in production](http://stackoverflow.com/questions/18285212/how-to-scale-docker-containers-in-production)
- 
+ * [Docker Overview](https://docs.docker.com/engine/understanding-docker/)
+* [Get Started with Docker](http://learningdocker.com/)
+* [Docker Basics: A practical starters guide)(https://www.conetix.com.au/blog/docker-basics-practical-starters-guide)
+* [Eight Docker Development Patterns ](http://hokstad.com/docker/patterns)
+* [Series: How to create your own website based on Docker](http://project-webdev.blogspot.de/2015/05/create-site-based-on-docker-part1.html)
+* [continuous deployment of a microservices application with Docker](https://github.com/francescou/docker-continuous-deployment)
+* [Logging on Docker](https://vimeo.com/123341629)
+* [A Simple Way To Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
+
+
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
 
