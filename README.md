@@ -81,3 +81,5 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [Continuous Delivery of iOS Applications with Team Services](https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/25/continuous-delivery-of-ios-applications-with-team-services/)
 * [Continuous Integration for iOS Apps with Visual Studio Team Services](https://blog.xamarin.com/continuous-integration-for-ios-apps-with-visual-studio-team-services/)
 
+
+![1](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-v2.png)
