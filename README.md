@@ -83,3 +83,4 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 
 
 ![1](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-v2.png)
+![2](https://blog.xebialabs.com/wp-content/uploads/2016/08/DevOps-Diagram-Generator-Animated.gif)
