@@ -97,7 +97,11 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 ![1](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/45/92/metablogapi/4743.image_thumb_77E2CDB0.png)
 ![1](http://coe.aceinfosolutions.com/sites/default/files/maturity.png)
 ![1](http://1.bp.blogspot.com/-PYQejoom20I/VqOk6Xrg6kI/AAAAAAAACKs/y51cNaKPII8/s400/continuous-delivery-maturity-model-v1.0.png)
-
+![1](https://redhatmiddleware.files.wordpress.com/2016/06/image00.png)
+![1](https://s-media-cache-ak0.pinimg.com/564x/6f/15/ec/6f15ecf5239fcc4e0b3b27b6daee14ca.jpg)
+![1](http://java.dzone.com/sites/all/files/CD_Infographic.jpeg)
+![1](https://s-media-cache-ak0.pinimg.com/564x/06/13/f1/0613f1a0e1af6b5c4fe0ba1df097a5f3.jpg)
+![1](http://www.relevancelab.com/RLCatalyst/assets/img/catalyst/blog/devops1-flow.png)
 ![1](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-v2.png)
 ![2](https://blog.xebialabs.com/wp-content/uploads/2016/08/DevOps-Diagram-Generator-Animated.gif)
 ![1](http://cdn2.hubspot.net/hubfs/381387/Blog-image-tracking/ElasticBox-DevOps_Open_Source_Tools.png)
