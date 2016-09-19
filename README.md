@@ -82,6 +82,10 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [Continuous Integration for iOS Apps with Visual Studio Team Services](https://blog.xamarin.com/continuous-integration-for-ios-apps-with-visual-studio-team-services/)
 
 
+* [43 free and open-source tools that put the Ops in DevOps](http://techbeacon.com/open-source-tools-put-ops-devops)
+* [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
+
+
 ![1](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-v2.png)
 ![2](https://blog.xebialabs.com/wp-content/uploads/2016/08/DevOps-Diagram-Generator-Animated.gif)
 ![1](http://cdn2.hubspot.net/hubfs/381387/Blog-image-tracking/ElasticBox-DevOps_Open_Source_Tools.png)
