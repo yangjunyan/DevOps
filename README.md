@@ -85,6 +85,18 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [43 free and open-source tools that put the Ops in DevOps](http://techbeacon.com/open-source-tools-put-ops-devops)
 * [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
 
+![1](http://www.hcltech.com/sites/default/files/images/technology_.png)
+![1](http://www.hcltech.com/sites/default/files/images/implementation.png)
+![1](http://www.cigniti.com/blog/wp-content/uploads/2015/12/Devops.png)
+![1](https://www.qa.com/-/media/qa/icons/devops/devops%20diagram%20600x680.jpg)
+![1](http://www.cigniti.com/blog/wp-content/uploads/2015/12/Devops-overview.png)
+![1](http://www.hcltech.com/sites/default/files/images/customer.png)
+![1](http://www.swiftkanban.com/wp-content/uploads/2015/08/kanban-for-devops.png)
+![1](https://rhrempel.files.wordpress.com/2015/11/opensourceecosystem.jpg)
+![1](https://rhrempel.files.wordpress.com/2015/11/microsoftecosystem.jpg)
+![1](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/45/92/metablogapi/4743.image_thumb_77E2CDB0.png)
+![1](http://coe.aceinfosolutions.com/sites/default/files/maturity.png)
+![1](http://1.bp.blogspot.com/-PYQejoom20I/VqOk6Xrg6kI/AAAAAAAACKs/y51cNaKPII8/s400/continuous-delivery-maturity-model-v1.0.png)
 
 ![1](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-v2.png)
 ![2](https://blog.xebialabs.com/wp-content/uploads/2016/08/DevOps-Diagram-Generator-Animated.gif)
