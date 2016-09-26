@@ -75,6 +75,8 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [Understanding YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
 * 
 
+http://devops.com/2016/09/23/demystifying-scrum-ops-crowd/
+https://jenkins.io/doc/pipeline/
 
 * [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
 
