@@ -105,6 +105,18 @@
 * [A Simple Way To Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
 
 
+Use Docker to build, test and push your Artifacts
+https://lostechies.com/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/
+
+
+Deployment Pipeline using Docker, Jenkins, Java and Couchbase
+https://www.voxxed.com/blog/2016/09/deployment-pipeline-using-docker-jenkins-java-and-couchbase/
+
+
+ASP.NET Core on Docker
+https://carlos.mendible.com/2016/09/26/step-by-step-asp-net-core-on-docker/
+
+
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
 
