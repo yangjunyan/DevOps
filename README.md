@@ -110,3 +110,4 @@ https://jenkins.io/doc/pipeline/
 ![2](http://cdn2.hubspot.net/hub/208250/file-2451034899-jpg/Blog_Images/ContinuousTestingBlog1.jpg)
 ![2](https://www.cloudbees.com/sites/default/files/blog/cd-flow.png)
 ![1](http://www.getzephyr.com/sites/default/files/Continuous_Delivery_process_diagram.svg.png)
+![1](http://www.getzephyr.com/sites/default/files/Webinar%20Image_DevOps.png)
