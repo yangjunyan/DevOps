@@ -26,7 +26,23 @@ DevOps
 * [“DevOps” an Extension of Agile Methodology – How It will Impact QA?](http://www.softwaretestinghelp.com/devops-and-software-testing/)
 * [12 Awesome tools to make DevOps effective](https://medium.com/@MarutiTech/12-awesome-tools-to-make-devops-effective-769f6f7b38a3#.fovievmbu)
 * [DevOps Architect workshop](https://www.linkedin.com/pulse/3-days-devops-architect-workshop-change-leader-your-kumar)
-* 
+* [21 DevOps and Docker Reference Architectures](https://dzone.com/articles/21-devops-and-docker-reference-architectures)
+* [Continuous Integration for Mobile vs. Web Applications](https://dzone.com/articles/continuous-integration-for-mobile-vs-web-applicati)
+
+
+## DevOps Concepts
+* Configuration Management
+* Streamlining Dev Environment Setup
+* Orchestration
+* Service Discovery
+* Log & Error Management
+* Monitoring & Alerting
+* Dashboards
+* Automated Deployment
+* Backup & Disaster Recovery
+* Security
+* Scalability
+* Email Service
 
 ## DevOps Values
 ## DevOps Principles 
