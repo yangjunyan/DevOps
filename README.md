@@ -3,7 +3,7 @@
 ## Basic
 * [Awesome Sysadmin](https://github.com/itech001/awesome-sysadmin)
 * [continuous integration and continuous delivery](https://github.com/ciandcd/awesome-ciandcd)
-* 
+
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
 
@@ -83,6 +83,7 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [THE IMPORTANCE OF AGILE AND DEVOPS FOR END-USER EXPERIENCE](http://bitbar.com/the-importance-of-agile-and-devops-for-end-user-experience/)
 * [43 free and open-source tools that put the Ops in DevOps](http://techbeacon.com/open-source-tools-put-ops-devops)
 * [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
+* [Demystifying Scrum for the Ops Crowd](https://devops.com/2016/09/23/demystifying-scrum-ops-crowd/)
 
 ![1](http://bitbar.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-22-at-1.51.46-PM.png)
 ![1](http://www.hcltech.com/sites/default/files/images/technology_.png)
