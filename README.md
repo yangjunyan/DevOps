@@ -8,6 +8,7 @@
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
 
 DevOps
+* [An Explanation of DevOps](https://dzone.com/articles/what-is-devops-2)
 * [Understanding DevOps](https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/)
 * [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.t8qxwd2h0)
 * [Understanding DevOps: Foster a culture for building better apps faster](https://support.rackspace.com/white-paper/understanding-devops-foster-a-culture-for-building-better-apps-faster/)
@@ -73,17 +74,13 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 ## YAML
 * [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/)
 * [Understanding YAML](https://docs.saltstack.com/en/latest/topics/yaml/)
-* 
 
-http://devops.com/2016/09/23/demystifying-scrum-ops-crowd/
-https://jenkins.io/doc/pipeline/
 
+## URL
 * [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
-
 * [Continuous Delivery of iOS Applications with Team Services](https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/25/continuous-delivery-of-ios-applications-with-team-services/)
 * [Continuous Integration for iOS Apps with Visual Studio Team Services](https://blog.xamarin.com/continuous-integration-for-ios-apps-with-visual-studio-team-services/)
-
-
+* [THE IMPORTANCE OF AGILE AND DEVOPS FOR END-USER EXPERIENCE](http://bitbar.com/the-importance-of-agile-and-devops-for-end-user-experience/)
 * [43 free and open-source tools that put the Ops in DevOps](http://techbeacon.com/open-source-tools-put-ops-devops)
 * [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
 
