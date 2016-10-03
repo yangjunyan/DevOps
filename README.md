@@ -87,6 +87,7 @@ https://jenkins.io/doc/pipeline/
 * [43 free and open-source tools that put the Ops in DevOps](http://techbeacon.com/open-source-tools-put-ops-devops)
 * [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
 
+![1](http://bitbar.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-22-at-1.51.46-PM.png)
 ![1](http://www.hcltech.com/sites/default/files/images/technology_.png)
 ![1](http://www.hcltech.com/sites/default/files/images/implementation.png)
 ![1](http://www.cigniti.com/blog/wp-content/uploads/2015/12/Devops.png)
