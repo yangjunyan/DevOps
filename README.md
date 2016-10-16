@@ -19,6 +19,7 @@ DevOps
 * [The Agile in DevOps!](http://blog.sciodev.com/2016/03/28/the-agile-in-devops/)
 * [DevOps is Neither a Method nor a Tool, it’s a Culture](http://www.edureka.co/blog/devops-is-neither-a-method-nor-a-tool-its-a-culture/)
 * [2016 State of DevOps Report](http://www.ciosummits.com/Online_Assets_Puppet_2016_State_of_DevOps_Report.pdf)
+* [31 Reference Architectures for DevOps and Continuous Delivery](https://devops.com/2015/04/22/31-reference-architectures-devops-continuous-delivery/)
 
 ## URL
 
