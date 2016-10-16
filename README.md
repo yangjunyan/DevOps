@@ -133,3 +133,5 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 ![2](https://www.cloudbees.com/sites/default/files/blog/cd-flow.png)
 ![1](http://www.getzephyr.com/sites/default/files/Continuous_Delivery_process_diagram.svg.png)
 ![1](http://www.getzephyr.com/sites/default/files/Webinar%20Image_DevOps.png)
+![1](https://devops.com/wp-content/uploads/2015/04/cd-devops.png)
+![1](http://cdn.electric-cloud.com/wp-content/uploads/sdlc-tools.jpg)
