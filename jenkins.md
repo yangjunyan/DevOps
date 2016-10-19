@@ -30,6 +30,7 @@
 
 
 
+https://www.blazemeter.com/blog/automated-performance-tests-jenkins-ci-environments
 
 * [Jenkins 2.0: The impetus for DevOps Movement](https://www.packtpub.com/books/content/jenkins-20-impetus-devops-movement)
 * [Steps to Creating an Effective DevOps-Focused Deployment Pipeline](https://dzone.com/articles/steps-to-creating-an-effective-devops-focused-depl)
