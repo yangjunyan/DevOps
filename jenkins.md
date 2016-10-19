@@ -9,23 +9,23 @@
   * and deploying your first CI pipeline.
 
 2. Plugin Recommendations to Get More From Jenkins
-* over 1,000 plugins that allow Jenkins to integrate with most development, testing, and deployment tools
+  * over 1,000 plugins that allow Jenkins to integrate with most development, testing, and deployment tools
 
 3. Jenkins 2.0 and Pipeline
-Continuous Integration and Continuous Delivery tasks for almost any software project.
-*  enables you to build Jenkins jobs in the form of simple text scripts
-* Instead of defining the steps in the Jenkins UI, you can orchestrate your Continuous Integration processes from commit to delivery using powerful pipeline scripts
-* track their progress and status directly in the Jenkins job dashboard.
+  * Continuous Integration and Continuous Delivery tasks for almost any software project.
+  *  enables you to build Jenkins jobs in the form of simple text scripts
+  * Instead of defining the steps in the Jenkins UI, you can orchestrate your Continuous Integration processes from commit to delivery using powerful pipeline scripts
+  * track their progress and status directly in the Jenkins job dashboard.
 
 4. Jenkins and APM
-*  about the CA APM Jenkins plugin
-* You can also find Jenkins plugins for AppDynamics, Dynatrace AppMon, and New Relic.
+  *  about the CA APM Jenkins plugin
+  * You can also find Jenkins plugins for AppDynamics, Dynatrace AppMon, and New Relic.
 
 5. Load and Performance Testing With Jenkins
-* Jenkins is a really good CI tool for integrating load and performance testing into the CI process.
-* Running a JMeter Test via Jenkins Pipeline
-* open source load testing tools such as Gatling and Grinder.
-* Automated Performance Tests in Jenkins CI environments via the open-source test automation tool Taurus.
+  * Jenkins is a really good CI tool for integrating load and performance testing into the CI process.
+  * Running a JMeter Test via Jenkins Pipeline
+  * open source load testing tools such as Gatling and Grinder.
+  * Automated Performance Tests in Jenkins CI environments via the open-source test automation tool Taurus.
 
 
 
