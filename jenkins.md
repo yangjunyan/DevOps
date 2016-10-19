@@ -6,3 +6,7 @@
 * [Designing a Scalable Deployment Pipeline](https://spin.atomicobject.com/2016/09/23/scalable-deployment-pipeline/)
 
 * [SETTING UP TESTDROID PRODUCTS WITH JENKINS CI](http://bitbar.com/setting-up-testdroid-products-with-jenkins-ci/)
+
+
+
+![2](https://jenkins.io/images/pipeline/realworld-pipeline-flow.png)
