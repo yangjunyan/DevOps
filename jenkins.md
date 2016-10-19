@@ -1,12 +1,12 @@
 
 
 1. Getting Started: A Beginners Guide
-* an automated testing cloud for web and mobile applications
-* A Getting Started Guide to Setting Up Jenkins. 
-* designing and establishing standards for your CI architecture
-* locating important plugins
-* configuring system settings
-* and deploying your first CI pipeline.
+  * an automated testing cloud for web and mobile applications
+  * A Getting Started Guide to Setting Up Jenkins. 
+  * designing and establishing standards for your CI architecture
+  * locating important plugins
+  * configuring system settings
+  * and deploying your first CI pipeline.
 
 2. Plugin Recommendations to Get More From Jenkins
 * over 1,000 plugins that allow Jenkins to integrate with most development, testing, and deployment tools
