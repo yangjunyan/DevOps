@@ -32,6 +32,8 @@ DevOps
 * [21 DevOps and Docker Reference Architectures](https://dzone.com/articles/21-devops-and-docker-reference-architectures)
 * [Continuous Integration for Mobile vs. Web Applications](https://dzone.com/articles/continuous-integration-for-mobile-vs-web-applicati)
 
+* [DevOps, Common use cases, Architectures, Best Practices](http://www.slideshare.net/shivamaan/devops-common-use-cases-architectures-best-practices-48731462)
+
 
 ## DevOps Concepts
 * Configuration Management
