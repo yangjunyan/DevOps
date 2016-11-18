@@ -1,6 +1,17 @@
 https://github.com/sahilsk/awesome-jenkins
 https://programmaticponderings.wordpress.com/page/2/
 
+https://dzone.com/articles/how-to-leverage-testarchitect-in-devops
+https://dzone.com/articles/why-business-objectives-from-test-automation-are-n
+https://dzone.com/articles/devops-in-5-easyish-steps
+
+https://dzone.com/articles/an-agile-introduction-to-devops-part-iv-ship-ahoy
+
+https://dzone.com/articles/7-deadly-devops-sins-and-how-to-avoid-them
+
+
+https://devops.com/webinar-navigating-path-devops-maturity-real-world/
+
 https://blog.docker.com/2016/04/cicd-with-docker-cloud/
 
 https://branded.me/danschawbel
