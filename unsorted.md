@@ -1,6 +1,45 @@
 https://github.com/sahilsk/awesome-jenkins
 https://programmaticponderings.wordpress.com/page/2/
 
+http://codecondo.com/10-essential-programming-tools-for-the-mobile-web/
+
+http://www.agileadvice.com/2016/11/08/howtoapplyagile/reflections-year-long-agile-experiment/
+
+https://dzone.com/articles/rest-api-basic-guidelines-design-it-right-2
+
+https://dzone.com/articles/principles-for-successful-package-management
+
+http://techarcis.com/role-of-automation-in-the-era-of-agile/
+
+https://blog.xebialabs.com/2016/11/01/devops-dba-best-practices-xl-deploy/
+
+http://www.devopsdigest.com/collabnet-introduces-devops-lifecycle-manager
+
+Follow this company
+http://techarcis.com/delivery-excellence/qa-dashboards/
+
+![Reporting Target](https://richrtesting.files.wordpress.com/2016/11/image.jpeg)
+
+https://www.joecolantonio.com/2016/11/10/communication-skills-testers/
+
+http://techarcis.com/services/devtestops-and-continuous-delivery/
+
+https://www.joecolantonio.com/2016/11/10/communication-skills-testers/?
+
+http://techbeacon.com/high-performance-continuous-delivery-3-technical-practices-work
+
+http://www.devopsdigest.com/culture-is-key-to-devops
+
+http://www.nastel.com/application-analytics-for-devops_612_51.html
+https://www.brighttalk.com/webcast/9305/211097?s=
+http://www.devopsdigest.com/devops-agile-devopsense-3
+https://blog.xebialabs.com/2016/11/08/from-scrappy-to-scalable-devops-multi-functional-release-folders/
+
+http://www.agileadvice.com/2016/11/08/howtoapplyagile/reflections-year-long-agile-experiment/
+
+http://www3.ca.com/us/events/webcasts/na/performance-tuning-in-the-real-world-part-2/05-27-2015.aspx
+
+https://blog.xebialabs.com/2015/09/22/fully-automated-release-xl-release/
 https://dzone.com/articles/how-to-leverage-testarchitect-in-devops
 https://dzone.com/articles/why-business-objectives-from-test-automation-are-n
 https://dzone.com/articles/devops-in-5-easyish-steps
