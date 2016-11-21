@@ -2,7 +2,8 @@ https://github.com/sahilsk/awesome-jenkins
 https://programmaticponderings.wordpress.com/page/2/
 http://techbeacon.com/7-takeaways-devops-enterprise-summit-2016
 https://devops.com/continuous-integration-vs-delivery-vs-deployment-whats-difference/
-
+https://devops.com/continuous-integration-vs-delivery-vs-deployment-whats-difference/
+http://www.xceedgroup.com/xceed-blog/how-to-stay-smart-continuous-improvement-for-big-change
 http://codecondo.com/10-essential-programming-tools-for-the-mobile-web/
 
 http://www.agileadvice.com/2016/11/08/howtoapplyagile/reflections-year-long-agile-experiment/
