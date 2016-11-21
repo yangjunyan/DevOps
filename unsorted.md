@@ -1,5 +1,7 @@
 https://github.com/sahilsk/awesome-jenkins
 https://programmaticponderings.wordpress.com/page/2/
+http://techbeacon.com/7-takeaways-devops-enterprise-summit-2016
+https://devops.com/continuous-integration-vs-delivery-vs-deployment-whats-difference/
 
 http://codecondo.com/10-essential-programming-tools-for-the-mobile-web/
 
