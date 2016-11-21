@@ -117,6 +117,10 @@ ASP.NET Core on Docker
 https://carlos.mendible.com/2016/09/26/step-by-step-asp-net-core-on-docker/
 
 
+
+https://dzone.com/articles/docker-adoption-pathway-part-3?
+
+
 ## Advanced 
 * [The Role of A Container Cluster Manager](https://dzone.com/articles/the-role-of-a-container-cluster-manager)
 
