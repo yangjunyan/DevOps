@@ -63,7 +63,7 @@ DevOps
 * virtualization
 
 
-
+https://continuousdelivery.com/
 
 ## Containerization
 * Docker
