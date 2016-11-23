@@ -3,7 +3,7 @@
 https://www.sans.org/reading-room/whitepapers/analyst/continuous-monitoring-is-needed-35030
 https://blog.pandorafms.org/network-monitoring-tools/
 https://www.sans.org/reading-room/whitepapers/analyst/real-time-approach-continuous-monitoring-34950
-
+https://sematext.com/blog/category/monitoring-2/
 http://www.slideshare.net/StackStorm/stackstorm-devops-automation-webinar
 
 
