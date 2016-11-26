@@ -9,7 +9,10 @@
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
 
-DevOps
+# Containers
+* [Getting to Know Containers](https://alexandrebrisebois.wordpress.com/2016/11/22/getting-to-know-containers/)
+
+# DevOps
 * [An Explanation of DevOps](https://dzone.com/articles/what-is-devops-2)
 * [Understanding DevOps](https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/)
 * [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.t8qxwd2h0)
