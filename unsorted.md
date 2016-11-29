@@ -5,7 +5,9 @@ https://devops.com/continuous-integration-vs-delivery-vs-deployment-whats-differ
 https://devops.com/continuous-integration-vs-delivery-vs-deployment-whats-difference/
 http://www.xceedgroup.com/xceed-blog/how-to-stay-smart-continuous-improvement-for-big-change
 http://codecondo.com/10-essential-programming-tools-for-the-mobile-web/
-
+https://dzone.com/articles/10-devops-interview-questions-to-gauge-a-candidate
+https://dzone.com/articles/the-biggest-change-to-devops
+https://dzone.com/articles/testing-nodejs-application-using-mocha-and-docker
 http://www.agileadvice.com/2016/11/08/howtoapplyagile/reflections-year-long-agile-experiment/
 
 https://dzone.com/articles/rest-api-basic-guidelines-design-it-right-2
