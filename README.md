@@ -65,6 +65,10 @@
 * Containerization
 * virtualization
 
+## webinars & Video Discussion
+http://electric-cloud.com/resources/webinars/
+https://www.cloudbees.com/resources/devops-radio
+http://electric-cloud.com/lp/continuous-discussions/
 
 https://continuousdelivery.com/
 
