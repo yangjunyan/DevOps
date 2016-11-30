@@ -59,6 +59,22 @@
 ## DevOps Tools 
 
 
+# DevOps solutions
+	http://electric-cloud.com/solutions/full-stack-provisioning/
+	http://electric-cloud.com/solutions/continuous-integration-ci-automation-and-acceleration/
+	http://electric-cloud.com/solutions/devops-orchestration/
+	http://electric-cloud.com/solutions/deployment-automation/
+	http://electric-cloud.com/solutions/release-management/
+	http://electric-cloud.com/solutions/chef-puppet-orchestration/
+	http://electric-cloud.com/solutions/container-orchestration/
+	http://electric-cloud.com/solutions/embrace-extend-jenkins/
+	http://electric-cloud.com/solutions/qa-lab-provisioning/
+	http://electric-cloud.com/solutions/compliance-and-auditing/
+	http://electric-cloud.com/solutions/agile/
+	http://electric-cloud.com/solutions/unlock-agile-bottleneck/
+	http://electric-cloud.com/solutions/iot-and-embedded/
+
+
 * Configuration Management
 * Continuous Integration
 * Continuous Inspection
