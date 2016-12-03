@@ -26,6 +26,8 @@
 * [2016 State of DevOps Report](http://www.ciosummits.com/Online_Assets_Puppet_2016_State_of_DevOps_Report.pdf)
 * [31 Reference Architectures for DevOps and Continuous Delivery](https://devops.com/2015/04/22/31-reference-architectures-devops-continuous-delivery/)
 
+* [The IT Manager’s Guide To Continuous Delivery](http://cdn2.hubspot.net/hubfs/166743/Ebooks/IT_Managers_Guide_to_Continuous_Delivery.pdf)
+
 ## URL
 
 * [Now we know DevOps, how to understand DevOps metrics](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics)
@@ -58,6 +60,7 @@
 ## DevOps Practices
 ## DevOps Tools 
 
+http://electric-cloud.com/resources/continuous-delivery-101/continuous-deployment/
 
 # DevOps solutions
 	http://electric-cloud.com/solutions/full-stack-provisioning/
