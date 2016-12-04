@@ -201,3 +201,6 @@ http://dtosolutions.com/devops/devops-workshops/
 ![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/p/3/005/0a3/23b/27ad267.jpg)
 ![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/p/1/005/0a3/23b/305f56e.jpg)
 ![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/p/1/005/0a3/23b/3658153.jpg)
+![1](https://d0.awsstatic.com/product-marketing/CodePipeline/CodePipeline_Workflow.png)
+![1](https://d0.awsstatic.com/product-marketing/DevOps/continuous_integration.png)
+![1](https://d0.awsstatic.com/product-marketing/DevOps/continuous_delivery.png)
