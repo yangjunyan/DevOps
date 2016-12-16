@@ -30,7 +30,18 @@
 
 
 
-
+# Devops Checklist
+https://www.devopsonwindows.com/a-devops-checklist/
+http://devopschecklist.com/
+http://www.it-checklists.com/DevOps_Checklists_and_Templates.html
+https://devops.com/ultimate-checklist-successful-app-deployment/
+https://www.linkedin.com/pulse/checklist-build-devops-organization-thomas-theakanath
+https://medium.com/@eon01/the-15-point-devops-check-list-8cd2afb4a448#.vf3dj2sfe
+https://devops.com/devops-checklist-traditional-service-providers/
+https://gist.github.com/jamesob/3bd7d286be7255dd155e
+https://dzone.com/articles/continuous-delivery-maturity
+https://portland2013.drupal.org/session/your-devops-checklist.html
+http://blog.flux7.com/blogs/devops/checklist-validating-devops-architecture-part-2
 
 
 https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin
