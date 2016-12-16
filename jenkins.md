@@ -65,6 +65,16 @@ https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.m
 https://github.com/jenkinsci/pipeline-plugin/blob/master/TUTORIAL.md
 https://jenkins.io/solutions/pipeline/
 https://techbeacon.com/beginners-guide-kick-starting-your-ci-pipeline-jenkins
+
+
+# Best+Practices
+https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Best+Practices
+http://www.stratoscale.com/blog/devops/deploy-jenkins-best-practices-part-1/
+http://www.stratoscale.com/blog/devops/15-open-source-devops-tools-for-the-private-cloud/
+http://www.methodsandtools.com/archive/archive.php?id=121
+http://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
+
+
 # Version NO
 https://www.devopsonwindows.com/drama-free-version-numbers/
 
