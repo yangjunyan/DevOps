@@ -49,7 +49,9 @@ https://www.devopsonwindows.com/drama-free-version-numbers/
 https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin
 
 
-
+# build-server
+https://www.devopsonwindows.com/build-server-best-practices/
+https://www.devopsonwindows.com/what-makes-a-build-system/
 
 https://www.blazemeter.com/blog/automated-performance-tests-jenkins-ci-environments
 
