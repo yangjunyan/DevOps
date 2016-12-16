@@ -55,6 +55,8 @@ https://www.codementor.io/slavko/tutorials/setup-configure-jenkins-recommended-p
 http://www.fromdev.com/2013/07/best-jenkins-plugins.html
 http://www.openwebit.com/c/useful-jenkins-plugins/
 https://wiki.jenkins-ci.org/display/JENKINS/Version+Number+Plugin
+http://www.tothenew.com/blog/7-must-have-jenkins-plugins/
+http://getmesh.io/Blog/Jenkins+2+Pipeline+101
 
 # Version NO
 https://www.devopsonwindows.com/drama-free-version-numbers/
