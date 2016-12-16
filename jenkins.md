@@ -43,6 +43,8 @@ https://dzone.com/articles/continuous-delivery-maturity
 https://portland2013.drupal.org/session/your-devops-checklist.html
 http://blog.flux7.com/blogs/devops/checklist-validating-devops-architecture-part-2
 
+# Version NO
+https://www.devopsonwindows.com/drama-free-version-numbers/
 
 https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin
 
