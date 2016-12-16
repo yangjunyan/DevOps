@@ -5,6 +5,7 @@
 * [Start here](http://www.happiestminds.com/whitepapers/devops.pdf)
 * [Awesome Sysadmin](https://github.com/itech001/awesome-sysadmin)
 * [continuous integration and continuous delivery](https://github.com/ciandcd/awesome-ciandcd)
+* [DevOps Defined](https://dzone.com/articles/devops-defined)
 
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
