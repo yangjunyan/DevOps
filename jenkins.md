@@ -48,6 +48,8 @@ https://www.devopsonwindows.com/drama-free-version-numbers/
 
 https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin
 
+# best-practices
+https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline
 
 # build-server
 https://www.devopsonwindows.com/build-server-best-practices/
