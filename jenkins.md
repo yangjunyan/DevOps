@@ -43,6 +43,19 @@ https://dzone.com/articles/continuous-delivery-maturity
 https://portland2013.drupal.org/session/your-devops-checklist.html
 http://blog.flux7.com/blogs/devops/checklist-validating-devops-architecture-part-2
 
+# jenkins-plugin
+https://devops.com/15-must-jenkins-plugins-increase-productivity/
+https://jenkins.io/blog/2016/08/29/jenkins-world-speaker-blog-goodgame/
+https://jenkins.io/doc/book/pipeline-as-code/
+http://continuousdev.com/2015/04/jenkins-plugins-you-want/
+http://eugenedvorkin.com/6-effective-jenkins-plugins-for-your-project/
+https://wiki.jenkins-ci.org/display/JENKINS/Build+Flow+Plugin
+https://anchore.com/blog/securing-jenkins-cicd-container-pipeline-anchore-10-minutes/
+https://www.codementor.io/slavko/tutorials/setup-configure-jenkins-recommended-plugins-du107z6nr
+http://www.fromdev.com/2013/07/best-jenkins-plugins.html
+http://www.openwebit.com/c/useful-jenkins-plugins/
+https://wiki.jenkins-ci.org/display/JENKINS/Version+Number+Plugin
+
 # Version NO
 https://www.devopsonwindows.com/drama-free-version-numbers/
 
