@@ -99,6 +99,11 @@ https://www.blazemeter.com/blog/automated-performance-tests-jenkins-ci-environme
 
 * [SETTING UP TESTDROID PRODUCTS WITH JENKINS CI](http://bitbar.com/setting-up-testdroid-products-with-jenkins-ci/)
 
+https://www.devopsonwindows.com/application-lifecycle-management/
+https://www.devopsonwindows.com/automate-only-what-is-necessary/
+https://www.devopsonwindows.com/regularly-check-system-resources/
+https://www.devopsonwindows.com/unlock-the-power-of-the-command-line/
+https://www.devopsonwindows.com/communicate/
 
 
 ![2](https://jenkins.io/images/pipeline/realworld-pipeline-flow.png)
