@@ -58,6 +58,13 @@ https://wiki.jenkins-ci.org/display/JENKINS/Version+Number+Plugin
 http://www.tothenew.com/blog/7-must-have-jenkins-plugins/
 http://getmesh.io/Blog/Jenkins+2+Pipeline+101
 
+# pipelines
+http://rancher.com/docker-based-build-pipelines-part-1-continuous-integration-and-testing/
+http://www.bogotobogo.com/DevOps/Jenkins/Jenkins_Build_Pipeline_Dependency_Graph_Plugin.php
+https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md
+https://github.com/jenkinsci/pipeline-plugin/blob/master/TUTORIAL.md
+https://jenkins.io/solutions/pipeline/
+https://techbeacon.com/beginners-guide-kick-starting-your-ci-pipeline-jenkins
 # Version NO
 https://www.devopsonwindows.com/drama-free-version-numbers/
 
