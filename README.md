@@ -6,6 +6,7 @@
 * [Awesome Sysadmin](https://github.com/itech001/awesome-sysadmin)
 * [continuous integration and continuous delivery](https://github.com/ciandcd/awesome-ciandcd)
 * [DevOps Defined](https://dzone.com/articles/devops-defined)
+* [DevOps by Example: Tools, Pros and Cons of a DevOps Culture](https://www.sitepoint.com/devops-by-example-tools-pros-and-cons-of-a-devops-culture/)
 
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
