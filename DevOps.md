@@ -8,6 +8,9 @@ http://www.infoworld.com/article/2853707/robotics/11-open-source-tools-machine-l
 7 cool tools for doing devops right
 http://www.infoworld.com/article/2866574/devops/7-cool-tools-for-doing-devops-right.html#
 
+Why “Enterprise DevOps” Doesn’t Make Sense
+https://devops.com/enterprise-devops-doesnt-make-sense/
+
 
 8 more cool tools for devops success
 http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html
