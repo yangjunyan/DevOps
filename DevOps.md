@@ -9,3 +9,5 @@ http://www.infoworld.com/article/2853707/robotics/11-open-source-tools-machine-l
 http://www.infoworld.com/article/2866574/devops/7-cool-tools-for-doing-devops-right.html#
 
 
+8 more cool tools for devops success
+http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html
