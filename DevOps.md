@@ -12,5 +12,9 @@ Why “Enterprise DevOps” Doesn’t Make Sense
 https://devops.com/enterprise-devops-doesnt-make-sense/
 
 
+Understanding Docker, Containers and Safer Software Delivery
+https://www.sitepoint.com/docker-containers-software-delivery/
+
+
 8 more cool tools for devops success
 http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html
