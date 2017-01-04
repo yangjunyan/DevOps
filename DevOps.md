@@ -12,3 +12,6 @@ https://www.cloudbees.com/sites/default/files/jenkins2-harpreet-blog2-1.png
 http://cdn.electric-cloud.com/wp-content/uploads/sdlc-tools.jpg
 
 https://devops.com/wp-content/uploads/2015/04/cd-devops.png
+
+
+https://devops.com/31-reference-architectures-devops-continuous-delivery/
