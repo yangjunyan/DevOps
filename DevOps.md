@@ -7,3 +7,8 @@
 * [Why “Enterprise DevOps” Doesn’t Make Sense](https://devops.com/enterprise-devops-doesnt-make-sense/)
 * [Understanding Docker, Containers and Safer Software Delivery](https://www.sitepoint.com/docker-containers-software-delivery/)
 * [8 more cool tools for devops success](http://www.infoworld.com/article/3031009/devops/8-more-cool-tools-for-devops-success.html)
+
+https://www.cloudbees.com/sites/default/files/jenkins2-harpreet-blog2-1.png
+http://cdn.electric-cloud.com/wp-content/uploads/sdlc-tools.jpg
+
+https://devops.com/wp-content/uploads/2015/04/cd-devops.png
