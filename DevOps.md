@@ -13,7 +13,7 @@ http://cdn.electric-cloud.com/wp-content/uploads/sdlc-tools.jpg
 
 https://devops.com/wp-content/uploads/2015/04/cd-devops.png
 
-
+http://www.adventone.com.au/wp-content/files_mf/1460512945Devopsfordummies.pdf
 https://devops.com/31-reference-architectures-devops-continuous-delivery/
 
 # Free Course
