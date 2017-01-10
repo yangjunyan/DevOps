@@ -15,3 +15,6 @@ https://devops.com/wp-content/uploads/2015/04/cd-devops.png
 
 
 https://devops.com/31-reference-architectures-devops-continuous-delivery/
+
+# Free Course
+* [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
