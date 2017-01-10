@@ -1,5 +1,7 @@
 # DevOps
 
+# Values
+* [The Greatest Value of DevOps](https://dzone.com/articles/the-greatest-value-of-devops)
 
 ## Basic
 * [Start here](http://www.happiestminds.com/whitepapers/devops.pdf)
