@@ -18,3 +18,13 @@ https://devops.com/31-reference-architectures-devops-continuous-delivery/
 
 # Free Course
 * [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
+
+
+What DevOps Is and What It Is Not
+https://dzone.com/articles/what-devops-is-and-is-not
+
+ Its core values are Culture, Automation, Lean, Measurement and Sharing (CALMS).
+http://www.ranger4.com/ranger4-devops-blog/i-got-devops-certified
+
+Why Continuous Delivery Is Key for Developer Career Success
+https://dzone.com/articles/why-continuous-delivery-is-key-for-developer-caree
