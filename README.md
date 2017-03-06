@@ -158,6 +158,16 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 # Workshop
 http://dtosolutions.com/devops/devops-workshops/
 
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb665.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb666.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb667.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb668.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb669.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb670.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb671.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb672.png)
+![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb677.png)
+
 ![1](https://msdnshared.blob.core.windows.net/media/2016/11/SNAGHTMLb41cf97.png)
 ![1](http://bitbar.com/wp-content/uploads/2015/01/Screen-Shot-2016-10-03-at-11.04.33-PM.png)
 ![1](http://bitbar.com/wp-content/uploads/old_testdroid/Screen-Shot-2015-01-13-at-10.11.06-AM.png)
