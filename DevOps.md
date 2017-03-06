@@ -20,7 +20,7 @@
 
 
 
-* Recommendations for Checking In Code
+### Recommendations for Checking In Code
 The following procedure shows the recommended steps to check code into source control.
 To check in code to source control
 1. Verify that the CI build is working and passing all the unit tests. If it is not, notify the development lead. Do not check in code until the issue is resolved.
