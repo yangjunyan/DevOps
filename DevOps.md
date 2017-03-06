@@ -1,3 +1,25 @@
+
+# Continuous Integration
+## Advantages and Disadvantages of Continuous Integration
+### These are some of the advantages of continuous integration:
+* You catch build breaks early on.
+* In a distributed development environment where developers do not always communicate with one another, continuous integration is a great way to assure the developer that the build he or she is building is the latest one.
+* Continuous integration also causes less regression
+* The feedback loop is smaller.
+* A developer does not have to wait for the end of the day or week to find out how the check-in affected the build.
+* Integration testing moves up in the chain.
+* Every check-in goes through the integration testing where problems are caught early.
+* Continuous integration enforces better development processes.
+* Each developer is held accountable.
+* You always have a latest-and-greatest build to use in demos, showcases, etc.
+
+### On the other hand, there are some disadvantages:
+* Maintenance overhead often increases.
+* Some teams find that the level of discipline required for continuous integration causes bottlenecks. * This often requires a shift in the developer mindset.
+* The immediate impact of a check-in often causes a backup because programmers cannot check in partially completed code.
+
+
+
 * [Monitoring in the DevOps Pipeline](https://insights.sei.cmu.edu/devops/2015/12/monitoring-in-the-devops-pipeline.html)
 
 * [SecDevOps: Embracing the Speed of DevOps and Continuous Delivery in a Secure Environment](https://securityintelligence.com/secdevops-embracing-the-speed-of-devops-and-continuous-delivery-in-a-secure-environment/)
