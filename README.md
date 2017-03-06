@@ -234,3 +234,8 @@ http://dtosolutions.com/devops/devops-workshops/
 ![1](https://d0.awsstatic.com/product-marketing/CodePipeline/CodePipeline_Workflow.png)
 ![1](https://d0.awsstatic.com/product-marketing/DevOps/continuous_integration.png)
 ![1](https://d0.awsstatic.com/product-marketing/DevOps/continuous_delivery.png)
+![1](https://image.slidesharecdn.com/microsoftanddevops-presentedbyatidan-160226030051/95/microsoft-and-devops-presented-by-atidan-18-1024.jpg?cb=1456455840)
+![1](https://image.slidesharecdn.com/microsoftanddevops-presentedbyatidan-160226030051/95/microsoft-and-devops-presented-by-atidan-19-638.jpg?cb=1456455840)
+![1](https://rhrempel.files.wordpress.com/2015/11/opensourceecosystem.jpg?w=1024)
+![1](https://rhrempel.files.wordpress.com/2015/11/puppetmaster.jpg?w=1024)
+![1](https://s-media-cache-ak0.pinimg.com/564x/c7/a0/ff/c7a0ffa76949884c6db342185821ee13.jpg)
