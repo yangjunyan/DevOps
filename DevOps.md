@@ -20,6 +20,17 @@
 
 
 
+* Recommendations for Checking In Code
+The following procedure shows the recommended steps to check code into source control.
+To check in code to source control
+1. Verify that the CI build is working and passing all the unit tests. If it is not, notify the development lead. Do not check in code until the issue is resolved.
+2. Test all code modifications in a local development environment. Make sure that the unit tests are passing.
+3. Get the latest code from source control. Resolve any merge conflicts.
+4. Verify that the unit tests are still passing in the local development environment.
+5. Check in the modified files. There should be no merge conflicts because you synchronized them in step 3.
+6. Review the code for missing comments while the CI build is running. After the CI build completes and passes all the unit tests, you can move on to next task. If the CI build fails, fix the issue because you are now blocking other developers from integrating their code.
+
+
 * [Monitoring in the DevOps Pipeline](https://insights.sei.cmu.edu/devops/2015/12/monitoring-in-the-devops-pipeline.html)
 
 * [SecDevOps: Embracing the Speed of DevOps and Continuous Delivery in a Secure Environment](https://securityintelligence.com/secdevops-embracing-the-speed-of-devops-and-continuous-delivery-in-a-secure-environment/)
