@@ -43,6 +43,22 @@
 
 * [DevOps, Common use cases, Architectures, Best Practices](http://www.slideshare.net/shivamaan/devops-common-use-cases-architectures-best-practices-48731462)
 
+## DevOps 
+* Continuous Deployment
+* Automated Testing
+* Release Management
+* App Performance Monitoring
+* Load Testing & Auto-Scale
+* Availability Monitoring
+* Change/Configuration Management
+* Feature Flags
+* Automated Environment De-Provisioning
+* Self Service Environments
+* Automated Recovery (Rollback & Roll-Forward)
+* Hypothesis Driven Development
+* Testing in Production
+* Fault Injection
+* Usage Monitoring/User Telemetry
 
 ## DevOps Concepts
 * Configuration Management
