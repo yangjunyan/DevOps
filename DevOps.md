@@ -1,4 +1,17 @@
 
+Docker Adoption Pathway - Part 1
+https://dzone.com/articles/docker-adoption-pathway-part-1
+
+Docker Adoption Pathway - Part 2
+https://dzone.com/articles/docker-adoption-pathway-part-2
+
+Docker Adoption Pathway - Part 3
+https://dzone.com/articles/docker-adoption-pathway-part-3
+
+Docker Adoption Pathway: Part IV
+https://dzone.com/articles/docker-adoption-pathway-part-4
+
+
 # Continuous Integration
 ## Advantages and Disadvantages of Continuous Integration
 ### These are some of the advantages of continuous integration:
