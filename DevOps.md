@@ -1,3 +1,24 @@
+# Software Assembly Line
+A typical assembly line in my projects looks like this:
+
+* Kanban board to plan work and visualize work in progress (i.e., Trello).
+* Developer environment.
+  * Editor.
+  * Local build.
+  * Local test.
+* The CI/CD pipeline.
+  * Code repository (AWS CodeCommit).
+  * Artifact repository (Amazon S3, Amazon EC2 Container Registry).
+* Pipeline (AWS CodePipeline).
+  * Build and test (AWS CodeBuild).
+  * Deploy acceptance environment (AWS CloudFormation).
+  * Run acceptance tests (AWS CodeBuild).
+  * Deploy production environment (AWS CloudFormation).
+* Monitoring (AWS CloudWatch).
+  * Logging.
+  * Metrics.
+  * Alerting.
+
 
 Docker Adoption Pathway - Part 1
 https://dzone.com/articles/docker-adoption-pathway-part-1
