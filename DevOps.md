@@ -1,3 +1,6 @@
+# Set the Assembly Line Up
+![1](https://cloudonaut.io/images/2017/01/aws-velocity.png)
+
 # Software Assembly Line
 A typical assembly line in my projects looks like this:
 
