@@ -155,6 +155,9 @@ https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usec
 * [Mobile antivirus fail: Why secure DevOps is the way forward](http://techbeacon.com/mobile-antivirus-introduces-vulnerability-how-devops-could-have-stopped-mess)
 * [Demystifying Scrum for the Ops Crowd](https://devops.com/2016/09/23/demystifying-scrum-ops-crowd/)
 
+Lesson Learned in Scaling Enterprise DevOps
+https://www.youtube.com/watch?v=PheuDcnWS_c
+
 # Workshop
 http://dtosolutions.com/devops/devops-workshops/
 
