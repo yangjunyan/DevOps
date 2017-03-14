@@ -20,6 +20,15 @@ The key to being a great DevOps Engineer is to focus on the following:
 * **End-to-end collaboration** and helping others solve issues are key.
 * **You should be a scripting guru** — Bash, Powershell, Perl, Ruby, JavaScript, Python, you name it. You must be able to write code to automate repeatable processes.
 
+# Factors to Measure DevOps Success
+* Deployment frequency.
+* Lead time for code changes.
+* Rollback rate.
+* Usage of automation tools for CI/CD.
+* Test automation.
+* Meeting business goals.
+* Faster time-to-market.
+* Customer satisfaction percentage.
 
 # Set the Assembly Line Up
 ![1](https://cloudonaut.io/images/2017/01/aws-velocity.png)
