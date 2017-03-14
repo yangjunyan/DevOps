@@ -11,6 +11,15 @@ In short, a DevOps engineer can be a developer who can think with an Operations 
 * Understanding of Ops challenges and how they can be addressed during design and development.
 * Soft skills for better collaboration across the team.
 
+# How Can You Be a Great DevOps Engineer?
+The key to being a great DevOps Engineer is to focus on the following:
+
+* **Know the basic concepts of DevOps** and get into the mindset of automating almost everything.
+* **Know about different DevOps tools** like AWS, GitHub, Puppet, Docker, Chef, New Relic, Ansible, Shippable, JIRA, Slack, etc.
+* **Have an organization-wide Ops mindset.** There are many common Ops pitfalls that developers need to consider while designing software. Reminding developers of these during design and development will go a long way in avoiding these altogether rather than running into issues and then fixing them. Try to standardize this process by creating a checklist that is part of a template for design reviews.
+* **End-to-end collaboration** and helping others solve issues are key.
+* **You should be a scripting guru** — Bash, Powershell, Perl, Ruby, JavaScript, Python, you name it. You must be able to write code to automate repeatable processes.
+
 
 # Set the Assembly Line Up
 ![1](https://cloudonaut.io/images/2017/01/aws-velocity.png)
