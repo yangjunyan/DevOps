@@ -1,3 +1,17 @@
+# What Is a DevOps Engineer?
+A major part of adopting DevOps is creating a better working relationship between development and operations teams. Some suggestions to do this include sitting the teams together, involving them in each other's processes and workflows, and even creating one cross-functional team that does everything. In all these methods, Dev is still Dev and Ops is still Ops. 
+
+The term DevOps Engineer tries to blur this divide between Dev and Ops and suggests that the best approach is to hire engineers who can be excellent coders as well as handle all the Ops functions. 
+
+In short, a DevOps engineer can be a developer who can think with an Operations mindset and has the following skillset:
+
+* Familiarity and experience with a variety of Ops and automation tools. 
+* Great at writing scripts.
+* Comfortable with dealing with frequent testing and incremental releases.
+* Understanding of Ops challenges and how they can be addressed during design and development.
+* Soft skills for better collaboration across the team.
+
+
 # Set the Assembly Line Up
 ![1](https://cloudonaut.io/images/2017/01/aws-velocity.png)
 
