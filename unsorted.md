@@ -9,6 +9,7 @@ https://dzone.com/articles/10-devops-interview-questions-to-gauge-a-candidate
 https://dzone.com/articles/the-biggest-change-to-devops
 https://dzone.com/articles/testing-nodejs-application-using-mocha-and-docker
 http://www.agileadvice.com/2016/11/08/howtoapplyagile/reflections-year-long-agile-experiment/
+InfrastructureAsCode - https://martinfowler.com/bliki/InfrastructureAsCode.html
 
 https://dzone.com/articles/rest-api-basic-guidelines-design-it-right-2
 
