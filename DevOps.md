@@ -54,6 +54,9 @@ A typical assembly line in my projects looks like this:
   * Metrics.
   * Alerting.
 
+# Pipeline
+* [Delivery Pipeline For Agile Projects](http://www.testingexcellence.com/delivery-pipeline-agile-project/)
+
 
 Docker Adoption Pathway - Part 1
 https://dzone.com/articles/docker-adoption-pathway-part-1
