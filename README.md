@@ -242,3 +242,4 @@ http://dtosolutions.com/devops/devops-workshops/
 ![1](https://rhrempel.files.wordpress.com/2015/11/opensourceecosystem.jpg?w=1024)
 ![1](https://rhrempel.files.wordpress.com/2015/11/puppetmaster.jpg?w=1024)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/c7/a0/ff/c7a0ffa76949884c6db342185821ee13.jpg)
+![1](https://camo.githubusercontent.com/bdc81def398a0d13b70066783021b789e922fb91/68747470733a2f2f692e696d6775722e636f6d2f6c324b4e4859492e706e67)
