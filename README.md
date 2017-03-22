@@ -43,9 +43,23 @@ Here are the benefits stated in the diagram in text form:
 15. Some stages may only be triggered manually: compatible with release management approval processes
 16. The pipeline runs successively slower and more expensive quality gates: ensures optimized fast feedback
 
+# What problems are solved by DevOps
 
-# Values
-* [The Greatest Value of DevOps](https://dzone.com/articles/the-greatest-value-of-devops)
+* **Faster iteration** It gets new features out faster and at higher quality.
+* **Faster, more user-friendly software that delivers value more quickly thanks to automation**. Operations becomes part of the engineering applications team enabling the faster development and deployment.
+* **A repeatable process** where every member of the team knows where everything is in the process and each team member knows their role. Reliable path, more stable releases, faster. Some manual work with app stores like publishing and beta but documented.
+* **The value the customer gets from the end product.** Metrics like mean time to deploy, create, ship features, recovery, and root-cause analysis. Better software, more frequent releases, happier customers, and happier employees.
+* The false promise of Agile is to develop more quickly. Long-term, it is faster because you are focusing on business value and building what is really needed and wanted rather than building some shiny new technology. Focus on what both internal and external customers need and begin troubleshooting from day one. **Give customers better quality and business value.**
+* Development understands what operations is like, so they make choices that help rather than hinder, and vice versa. **Continuous or at least rapid/pushbutton deployment** so that fixes and features can be rolled out more quickly.
+* **Reduce cycle time**, increase velocity of application delivery for apps, self-serve capabilities with no roadblocks. **Increase the quality** of what delivering and how to engage with customers in better ways, everyone understands the role in delivering something better for customer testing, certification, validation. Better teamwork equals better products. 3) Helping developers and ops team understand the impact they have on the business. More of the mindsets of the DevOps professionals use a closed feedback loop to know how to move the business forward. Planning through customer engagement with a view throughout the process.
+* **Speed to market**. Coming out with features that are meaningful to customers. Start with the minimum viable product, get customer feedback and quickly iterate to meet customer needs. This reduces wasteful development. 30% improvement in customer satisfaction. Ten times increase in innovation velocity. 2X efficiency increase. 85% test automation. EA feedback from months to weeks. Developer feedback from weeks to minutes.
+* DevOps automates a lot of the tasks of developers. Allows developers to focus on functionality and quality to provide a better UX and fewer bugs. Focus on what’s important not running deployment.
+* 1) Increase speed to market by having different teams come together. 2) If we implement correctly you increase release quality, release faster and learn. 3) Reduce testing costs because you don’t need to test after release. Customers are using AWS with automation feature scripts to check the capacity of servers. You know the impact of code of making changes running tests on AWS before you deploy scripts and automation to manage costs.
+* Continuous delivery more than DevOps. **Faster delivery with shorter feedback loops.** Usability and user experience is more important. Get features out more quickly. Usability is the main driver.
+* **Higher quality releases**. Another step in the release process. A mix of people and expertise adding an additional perspective to the release process to enhance the speed and quality of releases and freeing the developer to focus on the code of the product. Having greater awareness from all sides results in higher quality releases with automated processes that validate the accuracy and security of the code.
+* **Able to move forward with confidence when deploying code** – from framework capacity to reliability. Deploy code with fewer surprises thanks to increased visibility into processes, tooling, and accountability.
+* Increased visibility with DevOps encourages and **enables more people to collaborate and iterate much faster.**
+
 
 ## Basic
 * [Start here](http://www.happiestminds.com/whitepapers/devops.pdf)
