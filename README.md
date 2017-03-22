@@ -54,6 +54,9 @@ Here are the benefits stated in the diagram in text form:
 * [DevOps Defined](https://dzone.com/articles/devops-defined)
 * [DevOps by Example: Tools, Pros and Cons of a DevOps Culture](https://www.sitepoint.com/devops-by-example-tools-pros-and-cons-of-a-devops-culture/)
 
+# PERIODIC TABLE OF DEVOPS TOOLS
+* [PERIODIC TABLE OF DEVOPS TOOLS](https://xebialabs.com/periodic-table-of-devops-tools/)
+
 ## Image Speaks
 * [Rams infographic](https://github.com/ramyrams/DevOps/blob/master/DevOpsInfoGp.md)
 
