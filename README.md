@@ -1,5 +1,49 @@
 # DevOps
 
+There are lots of tools of technologies comes under DevOPS Practice. But majorly devops focused on these 7 key aspects
+* Code — Code development and review, version control tools, code merging.
+* Build — Continuous integration tools, build status.
+* Test — Test and results determine performance.
+* Package — Artifact repository, application pre-deployment staging.
+* Release — Change management, release approvals, release automation.
+* Configure — Infrastructure configuration and management, Infrastructure–as–Code tools.
+* Monitor — Applications performance monitoring, end–user experience.
+
+
+An integrated tool ecosystem helps achieve the following:              
+* Real-time collaboration between development, delivery, and operations tools.
+* Continuous planning from requirements capturing and review to design and code analysis.
+* Cross-tool traceability for defining relationships between various data objects.
+* Test strategy implementation for continuous testing.
+* Continuous Integration through automatic triggering of build on successful completion of code check-in.
+* Continuous testing through workflow based automatic triggering of both manual and automated test cases.
+* Schedule based test automation script execution enabling Continuous Delivery.
+* Continuous monitoring of release quality through reports and dashboards.
+* Automated defect identification and resolution for faster HelpDesk response.
+* End-to-end traceability providing better release predictability and change impact analysis.
+* Meaningful reports, metrics, and KPIs for quick decision-making.
+* Continuous Delivery through tracking release pipeline.
+
+
+Here are the benefits stated in the diagram in text form:
+1. Immediate start after check-in: no wasted time
+2. One new change per new pipeline: transparent debugging
+3. Parallel execution: faster feedback
+4. All stages e.g., code analysis used as enforceable gates: easy to enforce quality controls
+5. Can include infrastructure / environment build as well as application deployment: predictable and consistent behavior
+6. Visible project status: easy to understand current stage of delivery execution
+7. If a stage fails, the committer of the change can be immediately notified: efficient communication
+8. Fully automated: predictable outcomes and minimized manual effort
+9. Consistently executed automated test harness: high visibility of code quality and automated test stability
+10. Easy to drill down to cause of failure: faster debugging
+11. Highly visible historic information: can extract trends which inform planning decisions
+12. Tested build package re-used: predictable and consistent behavior
+13. Environments are recreated from version control so no need to limit: efficient debugging
+14. Infrastructure resources recycled: efficient use of cloud services
+15. Some stages may only be triggered manually: compatible with release management approval processes
+16. The pipeline runs successively slower and more expensive quality gates: ensures optimized fast feedback
+
+
 # Values
 * [The Greatest Value of DevOps](https://dzone.com/articles/the-greatest-value-of-devops)
 
