@@ -287,5 +287,15 @@ http://dtosolutions.com/devops/devops-workshops/
 ![1](https://rhrempel.files.wordpress.com/2015/11/puppetmaster.jpg?w=1024)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/c7/a0/ff/c7a0ffa76949884c6db342185821ee13.jpg)
 
+
+![1](https://cdn.infoq.com/statics_s1_20170321-0330/resource/articles/Continuous-Delivery-Maturity-Model/en/resources/7fig1small.jpg)
+![1](https://s-media-cache-ak0.pinimg.com/736x/e1/37/ff/e137ff342760f7a0c0893e3f68e0a057.jpg)
+![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAH_AAAAJDBhOTk0NDNmLWZlOTctNGUwNi04YmM2LTFkMDQxYjI0OTMyMA.jpg)
+![1](http://techieroop.com/wp-content/uploads/2017/02/7-1024x356.png)
+![1](http://techieroop.com/wp-content/uploads/2017/02/BestPractices_for_a_MatureContinuousDeliveryPipeline.png)
+![1](https://dzone.com/storage/temp/3557679-devops-cycle.png)
+![1](https://dzone.com/storage/temp/3557774-devops-scenario.png)
+![1](https://www.accenture.com/t20161130T204327__w__/us-en/_acnmedia/Accenture/Conversion-Assets/Blogs/Images/19/Accenture-Practical-Benefits-Thumbnail.jpg?la=en)
+
 # DevOps Roadmap
 ![1](https://camo.githubusercontent.com/bdc81def398a0d13b70066783021b789e922fb91/68747470733a2f2f692e696d6775722e636f6d2f6c324b4e4859492e706e67)
