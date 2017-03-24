@@ -176,6 +176,14 @@ Here are the benefits stated in the diagram in text form:
 ## DevOps Practices
 ## DevOps Tools 
 
+Implementation and maintenance of internal microservices such as Jenkins, code review system, infrastructure monitor, git server, etc. 
+
+Implemented continuous integration and Continuous Delivery process using Git/SVN, Jenkins, Maven & AWS.
+Implemented continuous deployment pipeline using Jenkins, Chef and Shell Scripting.
+Implemented continuous testing pipeline using Jenkins, Selenium, Chef and Shell Scripting.
+
+
+
 http://electric-cloud.com/resources/continuous-delivery-101/continuous-deployment/
 
 # DevOps solutions
