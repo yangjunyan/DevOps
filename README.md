@@ -9,6 +9,41 @@ There are lots of tools of technologies comes under DevOPS Practice. But majorly
 * Configure — Infrastructure configuration and management, Infrastructure–as–Code tools.
 * Monitor — Applications performance monitoring, end–user experience.
 
+DevOps: A Cultural Change for the Win
+https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops.png
+
+# Benefits
+* **Accelerated time-to-market:** shorten the time it takes from when an idea is conceived until it’s available for sale or in production.
+* **Building the right product:** developers get faster feedback from users with more frequent releases and live testing of ideas (more on this later on the “A/B Testing” section).
+* **Cost reduction:** reports average a 20% reduction.
+* **Improved productivity:** with continuous delivery, developers and testers save time setting up and fixing their working environments. Also, deployments are significantly faster (more on this later in the “Continuous Integration with Jenkins” section).
+* **Reliable releases:** with smaller and more frequent releases, the changes in code — and therefore the bugs introduced and their impact — are also smaller.
+* **Improved product quality:** companies report a very significant reduction in open bugs and other issues (in some cases, by more than 90%).
+* **Improved customer satisfaction:** this is, not surprisingly, a byproduct of all of the previous improvements.
+
+# DevOps culture 
+
+
+# Typical DevOps roles
+* Automated Build and Release
+  * Though automated nightly builds and smoke tests have been done even in a classic software development environment, such efforts were custom and scripted. The availability of automation platforms such as Hudson and Jenkins standardized such processes. The lead time to deploy changes in production has been minimized as a result.
+
+* Configuration Management
+  * This is a very generic term that previously referred to source code control systems (CMS), but in DevOps context, it refers to automation to define and create system components or roles. Though system components are largely software, in virtualized environments, the provisioning of hardware components such as virtual machines and storage volumes are very much in the scope.
+
+  * A typical provisioning of a compute node for a system component or role can start with creating a virtual machine, setting up user accounts and access privileges, and installing baseline software bits specific to that role.
+
+* Deployment Automation
+  * Most of the time, deployment automation is tied to configuration management or build and release infrastructure. While configuration management takes care of the baseline setup required for a system component, deployment automation addresses automated processes in getting the application software releases and patches installed on various types of compute nodes regularly. For example, Jenkins integrated with a CMDB system can be used to provision baseline compute nodes for a system component, and the same infrastructure can be used to push code incrementally to same compute nodes as part of the Continuous Integration process.
+
+* Monitoring
+  * The last thing that the providers of SasS and web consumer apps want to do is get notified of production issues by client users. The SaaS providers lose credibility and web portals lose ad revenue if features don't work as intended. Even though highly reliable monitoring systems are available, it is impossible to catch all of the issues using out-of-the-box features of such products. Extending the features based on domain knowledge of the application is the key to getting notified of potential issues before customers find it, and that requires a broad set of skills (mainly, scripting and knowing how to consume a wide range of native and REST APIs provided by the third-party tools used and the application being monitored).
+
+* Operational Intelligence
+  * A well-instrumented software system can leave tons of information about health and performance, and aggregating such info for troubleshooting and reporting can be a daunting task. Besides gathering info for management reporting, insights into the working of the system can also help improve performance and fine-tune operability, which ultimately contributes to the increased availability of systems.
+
+
+
 
 An integrated tool ecosystem helps achieve the following:              
 * Real-time collaboration between development, delivery, and operations tools.
