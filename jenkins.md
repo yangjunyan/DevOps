@@ -105,5 +105,6 @@ https://www.devopsonwindows.com/regularly-check-system-resources/
 https://www.devopsonwindows.com/unlock-the-power-of-the-command-line/
 https://www.devopsonwindows.com/communicate/
 
+http://www.ganshani.com/blog/2014/03/build-automation-using-jenkins-and-tfs-repository/
 
 ![2](https://jenkins.io/images/pipeline/realworld-pipeline-flow.png)
