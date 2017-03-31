@@ -95,6 +95,71 @@ Here are the benefits stated in the diagram in text form:
 * **Able to move forward with confidence when deploying code** – from framework capacity to reliability. Deploy code with fewer surprises thanks to increased visibility into processes, tooling, and accountability.
 * Increased visibility with DevOps encourages and **enables more people to collaborate and iterate much faster.**
 
+# What is Continuous Integration?
+
+Continuous Integration (CI) is a software practice that require developers to commit their code to the main workspace, at least once, possibly several times a day. Its expected that the developers have run unit tests in their local environment before committing the source code. All developers in the team are following this methodology. The main workspace is checked out, typically after each commit, or possibly at a regular intervals, and then verified for any thing from build issues, integration testing, functional testing, performance, longevity, or any other sort of testing.
+
+![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-integration.png)
+
+The level of testing that is performed in CI can completely vary but the key fundamentals are that multiple integrations from different developers are done through out the day. The biggest advantage of following this approach is that if there are any errors then they are identified early in the cycle, typically soon after the commit. Finding the bugs closer to commit does make them much more easier to fix. 
+
+> Continuous Integrations doesn’t get rid of bugs, but it does make them dramatically easier to find and remove.
+
+
+There are lots of tools that provide CI capabilities. Most common ones are Jenkins from CloudBees, Travis CI, Go from ThoughtWorks, and Bamboo from Atlassian.
+
+
+
+# What is Continuous Delivery?
+
+Continuous Delivery is the next logical step of Continuous Integration. It means that every change to the system, i.e. every commit, can be released for production at the push of a button. This means that every commit made to the workspace is a release candidate for production. This release however is still a manual process and require an explicit push of a button. This manual step may be essential because of business concerns such as slowing the rate of software deployment.
+
+Continuous Delivery
+
+At certain times, you may even push the software to production-like environment to obtain feedback. This allows to get a fast and automated feedback on production-readiness of your software with each commit. A very high degree of automated testing is an essential part to enable Continuous Delivery.
+
+Continuous Delivery is achieved by building Deployment Pipelines. This is best described in Continuous Delivery book by Jez Humble (@jezhumble).
+
+> A deployment pipeline is an automated implementation of your application’s build, deploy, test, and release process.
+
+The actual implementation of the pipeline, tools used, and processes may differ but the fundamental concept of 100% automation is the key.
+
+![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-delivery.png)
+
+
+What is Continuous Deployment?
+
+Continuous Deployment is often confused with Continuous Delivery. However it is the logical conclusion of Continuous Delivery where the release to production is completely automated. This means that every commit to the workspace is automatically released to production, and thus leading to several deployments of your software during a day.
+
+Continuous Deployment
+
+Continuous Delivery is a basic pre-requisite for Continuous Deployment.
+
+![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-deployment.png)
+
+
+# Continuous Delivery Maturity Model
+
+Maturity Models allow a team or organization to assess its methods and process against a clearly defined benchmark. As defined in Capability Maturity Model – The term “maturity” relates to the degree of formality and optimization of processes, from ad hoc practices, to formally defined steps, to managed result metrics, to active optimization of the processes.
+
+The model explains different stages and helps teams to improve by moving from a lower stage to a higher one. Several Continuous Delivery Maturity Models are available, such as InfoQ, UrbanCode, ThoughtWorks, Bekk, and others.
+
+Capability Maturity Model Integration (CMMI) is defined by Software Engineering Institute at Carnegie Mellon University.  CMMI-Dev particularly defines model that provides guidance for applying CMMI best practices in a development organization. It defines five maturity levels:
+
+* Initial
+* Managed
+* Defined
+* Quantitatively Managed
+* Optimizing
+Each of these Continuous Delivery maturity models mentioned define their own maturity levels. For example, Base, Beginner, Intermediate, Advanced, Expert are used by InfoQ. Expert is changed to Extreme for UrbanCode. ThoughtWorks uses CMMI-Dev maturity levels but does not segregate them into different areas.
+
+Here is another attempt to the maturity model that picks the best pieces from each of those.
+
+![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-delivery-maturity-model-v1.0-1024x734.png)
+
+
+
+
 
 ## Basic
 * [Start here](http://www.happiestminds.com/whitepapers/devops.pdf)
