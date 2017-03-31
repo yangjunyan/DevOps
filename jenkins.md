@@ -27,7 +27,7 @@
   * open source load testing tools such as Gatling and Grinder.
   * Automated Performance Tests in Jenkins CI environments via the open-source test automation tool Taurus.
 
-
+https://www.linkedin.com/pulse/setting-up-jenkins-master-slave-architecture-shashikant-jagtap
 
 
 # Devops Checklist
