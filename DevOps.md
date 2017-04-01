@@ -121,6 +121,52 @@ https://devops.com/wp-content/uploads/2015/04/cd-devops.png
 http://www.adventone.com.au/wp-content/files_mf/1460512945Devopsfordummies.pdf
 https://devops.com/31-reference-architectures-devops-continuous-delivery/
 
+# Automated Testing at Google 
+
+All their code is in a single, shared repository, made up of billions of files, all being continuously built and integrated, with 50% of their code being changed each month. Some other impressive statistics on their performance include:
+* 40,000 code commits/day.
+* 50,000 builds/day (on weekdays, this may exceed 90,000).
+* 120,000 automated test suites.
+* 75 million test cases run daily.
+* 100+ engineers working on the test engineering, continuous integration, and release engineering tooling to increase developer productivity (making up 0.5% of the R&D workforce).
+
+# 35 Questions to Ask When Creating a Deployment Pipeline
+1. How do you enforce developers can deploy only services they are allowed to?
+2. Do you want your developers to view other deployment processes?
+3. Are you going to purchase a tool or a set of tools or going to check out open-source solutions, or maybe, do you need to develop an in-house solution? Which deployment tools are available? Will they answer my needs?
+4. How do you integrate with all internal already-existing services (source control, bug tracker, service deployment tracking, and any other already existing services which are affected by such a new process)?
+5. This deployment tool that we are going to build, enhance, note that it’s another service and thus should be installed also with a deployment tool, should this deployment tool be deployed by the deployment tool itself?
+6. Do we need infrastructure alerts? (Those are both alerts tightly related to the deployment tool itself it’s stuck or down.)
+7. Applicative alerts — we want to have alerts on the status of the microservices itself, so do we need any new alerts as part of automating the deployment process?
+8. How do we validate that a micro service has been installed successfully? What if it has started up, but in the wrong version?
+9. Which stronger validations to we want to enforce once we let developers deploy their services (obviously, developers come from different places)?
+10. What if we want to block deployments for a certain region, segment, or certain teams? How can we achieve that? Who should have access to this block?
+11. Do we want a project per microservice deployment or do we want a global deployment tool where developers can choose the project they want to deploy from a list?
+12. Are there new conventions and enforcements we might want to enforce? Should RND project names, for example, match RPM name? Or do we rather configuration?
+13. How do we support gradual rollout?
+14. Should we allow deployment to cross the datacenter or let the developer deploy the datacenter by datacenter?
+15. Should developer care we have multiple data centers? (All he wants is to run his code.)
+16. Should our tool support both legacy platforms and modern ones such as Kubernetes and Swarm or do we solve one problem at a time? Should we have a shared interface?
+17. How do we integrate users management with existing user and group management already existing?
+18. What if a developer post-deployment needs to access (SSH) one of his services and do an operation? Should we enable him or her to do that? Or direct him or her to the production team for such access?
+19. Which additional visibility on services should we enable to the developer?
+20. How do we manage rollback? Now that developers are going to run much more deployments we need to support a quick rollback, possibly one-click rollback, is it the same process as upgrade-only a different version or it's actually a different rollback. What if rollback fails? Do we provide enough tools for developers to mitigate such problems? Or should we not?
+21. What is the discovery mechanism? Do we let developers deploy to specific services or only by general discovery mechanism (such as service name deployment)?
+22. If a developer has a pull request, should he merge it externally to the deployment process or have the deployment pipeline do it for him?
+23. Which info should we show the deployer prior to him making a deployment? Should we show warnings?
+24. If a deployment failed in one of the stages, how do we make sure the taget deployment environment get’s clean?
+25. If deployment process involves changes to database how will the deployment pipeline support that? Should it support it at all?
+26. How can the deployment process support both standard microservices and other types of jobs such as Hadoop jobs, Spark jobs? should we mess with jobs at all? maybe at future phases?
+27. Should the deployment process support the deployment of intrastructure- and production-related changes such as network configuration?
+28. How will the deployment pipeline be integrated with an already-existing system and end-to-end tests?
+29. Would you like to make sure the same deployment pipeline is run on production, QA, CI, local development environment, or going to fall into the trap of having it a production only tool?
+30. Which insights and analytics do you want to derive from such a deployment pipeline?
+31. Which system tests and end-to-end tests are you going to create for this deployment pipeline and how are you going to run them? (Testing the deployment tool itself.)
+32. How do you create such a pipeline process without introducing yet another layer to manage, could this layer save other deployments layers from happening or would it add an additional one?
+33. Which resiliency mechanisms do you need in this deployment tool? When would you want to retry, for example? Which timeouts do you need in place?
+34. Is the deployment pipeline a microservice? Is it a set of microservices? A monolith, God forbid (or God bless)?
+35. Many more. But you get the idea.
+
 # Free Course
 * [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
