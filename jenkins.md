@@ -1,6 +1,6 @@
 
 
-#Jenkins Distributed Build Architecture
+# Jenkins Distributed Build Architecture
 1. Getting Started: A Beginners Guide
   * an automated testing cloud for web and mobile applications
   * A Getting Started Guide to Setting Up Jenkins. 
@@ -75,6 +75,8 @@ http://www.stratoscale.com/blog/devops/15-open-source-devops-tools-for-the-priva
 http://www.methodsandtools.com/archive/archive.php?id=121
 http://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
 
+
+https://www.blazemeter.com/blog/ultimate-jenkins-continuous-integration-resources-guide
 
 # Version NO
 https://www.devopsonwindows.com/drama-free-version-numbers/
