@@ -85,6 +85,9 @@ https://www.devopsonwindows.com/drama-free-version-numbers/
 
 https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin
 
+# EBooks
+7 Ways to Optimize Jenkins
+
 # best-practices
 https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline
 
