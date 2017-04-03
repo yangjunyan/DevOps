@@ -30,6 +30,8 @@
 
 https://www.linkedin.com/pulse/setting-up-jenkins-master-slave-architecture-shashikant-jagtap
 
+# Tools
+https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/
 
 # Devops Checklist
 https://www.devopsonwindows.com/a-devops-checklist/
