@@ -193,6 +193,11 @@ Here is another attempt to the maturity model that picks the best pieces from ea
 
 * [The IT Manager’s Guide To Continuous Delivery](http://cdn2.hubspot.net/hubfs/166743/Ebooks/IT_Managers_Guide_to_Continuous_Delivery.pdf)
 
+
+* [The DevOps Release Timeline](https://xebialabs.com/assets/files/uploads/The-DevOps-Release-Timeline.pdf)
+* [Zero to DevOps](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/190)
+* [The Anatomy of a Release Pipeline](https://dzone.com/articles/the-anatomy-of-a-release-pipeline)
+
 ## URL
 
 * [Now we know DevOps, how to understand DevOps metrics](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics)
