@@ -252,6 +252,11 @@ Implemented continuous integration and Continuous Delivery process using Git/SVN
 Implemented continuous deployment pipeline using Jenkins, Chef and Shell Scripting.
 Implemented continuous testing pipeline using Jenkins, Selenium, Chef and Shell Scripting.
 
+* [3 Key DevOps Needs for Every Development Team](https://stackify.com/key-devops-functions-for-development-team/)
+
+* [What is DevOps? – Give Your Development Team Ownership](https://stackify.com/what-is-devops/)
+
+* [Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs](https://stackify.com/top-devops-tools/)
 
 
 http://electric-cloud.com/resources/continuous-delivery-101/continuous-deployment/
