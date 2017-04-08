@@ -70,6 +70,9 @@ https://jenkins.io/solutions/pipeline/
 https://techbeacon.com/beginners-guide-kick-starting-your-ci-pipeline-jenkins
 
 
+Jenkins Beginner
+https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG
+
 # Best+Practices
 https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Best+Practices
 http://www.stratoscale.com/blog/devops/deploy-jenkins-best-practices-part-1/
