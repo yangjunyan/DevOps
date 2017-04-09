@@ -1,3 +1,15 @@
+A typical continuous integration workflow will contain:
+* Setting up the automated build and unit testing
+* Setting up machines for application deployment and testing
+* Configuring for application deployment and testing
+* Queuing the Build, execute Tests and Test results analysis
+* Configuring the whole work flow to execute on a continuous basis
+
+
+
+
+
+
 
 
 # A Sample Continuous Integration Workflow
