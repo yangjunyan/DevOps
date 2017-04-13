@@ -32,6 +32,7 @@ https://www.linkedin.com/pulse/setting-up-jenkins-master-slave-architecture-shas
 
 # Tools
 https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/
+https://jenkins.io/doc/pipeline/tour/hello-world/
 
 # Devops Checklist
 https://www.devopsonwindows.com/a-devops-checklist/
