@@ -30,3 +30,11 @@ https://logz.io/learn/definitive-guide-aws-log-analytics-elk/
 
 Real time monitoring of .NET web applications with logstash, elasticsearch and Kibana
 http://spencerooni.github.io/2015/07/10/real-time-monitoring-of-.net-web-applications-with-logstash-elasticsearch-and-kibana.html
+
+
+
+
+
+
+https://bulldogjob.pl/articles/398-monitoring-net-applications-with-elk
+
