@@ -6,6 +6,10 @@ Logstash Tutorial: How to Get Started
 https://logz.io/blog/logstash-tutorial/
 
 
+The Full ELK Stack Installation Tutorial
+https://logz.io/learn/elk-stack-tutorial/
+
+
 Docker Monitoring with the ELK Stack: A Step-by-Step Guide
 https://logz.io/learn/docker-monitoring-elk-stack/
 
