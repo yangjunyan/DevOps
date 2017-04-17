@@ -9,6 +9,8 @@ https://logz.io/blog/logstash-tutorial/
 The Full ELK Stack Installation Tutorial
 https://logz.io/learn/elk-stack-tutorial/
 
+How to Use ELK to Monitor Performance
+https://logz.io/blog/elk-monitor-platform-performance/
 
 Docker Monitoring with the ELK Stack: A Step-by-Step Guide
 https://logz.io/learn/docker-monitoring-elk-stack/
