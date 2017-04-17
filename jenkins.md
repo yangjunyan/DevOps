@@ -30,6 +30,25 @@
 
 https://www.linkedin.com/pulse/setting-up-jenkins-master-slave-architecture-shashikant-jagtap
 
+Pipeline as Code - Jenkinsfile
+
+Declarative Pipeline
+
+What type pf teasl do you use Jenins for
+Buile
+Test
+Code Qualuty Analysis
+Depolument
+Release
+Batch Task
+Operations
+Other
+
+abayer/misc-pipeline-demos/
+
+rsandell/spring-pterclinic
+
+
 # Tools
 https://jenkins.io/blog/2016/05/26/introducing-blue-ocean/
 https://jenkins.io/doc/pipeline/tour/hello-world/
