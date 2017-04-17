@@ -200,6 +200,12 @@ Here is another attempt to the maturity model that picks the best pieces from ea
 
 ## URL
 
+35 Questions to Ask While Creating a Deployment Pipeline 
+https://dzone.com/articles/empowering-developers-to-deploy?
+
+The DevOps.com Application Performance Management Leadership Links Guide
+https://devops.com/devops-com-application-performance-management-leadership-links-guide/
+
 * [35 Questions to Ask While Creating a Deployment Pipeline](https://dzone.com/articles/empowering-developers-to-deploy/)
 * [Now we know DevOps, how to understand DevOps metrics](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics)
 * [“DevOps” an Extension of Agile Methodology – How It will Impact QA?](http://www.softwaretestinghelp.com/devops-and-software-testing/)
