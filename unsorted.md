@@ -1,3 +1,13 @@
+
+https://s-media-cache-ak0.pinimg.com/originals/c7/a0/ff/c7a0ffa76949884c6db342185821ee13.jpg
+https://image.slidesharecdn.com/devopsandprogrammaticinfrastructure-160919103700/95/devops-and-programmatic-infrastructure-37-638.jpg?cb=1475855439
+http://cloudbasic.net/wp-content/uploads/2016/02/DLM_Process.png
+http://cloudbasic.net/DLM_Process_and_Tools_CloudBasic.pdf
+DATABASE LIFECYCLE MANAGEMENT (DLM) PROCESS AND TOOLS
+http://www.ceredox.com/images/devops-diagram.jpg
+https://dzone.com/articles/jenkins-docker-and-devops-the-innovation-catalysts-3
+http://www.infoworld.com/article/2866574/devops/7-cool-tools-for-doing-devops-right.html#slide3
+	
 https://github.com/sahilsk/awesome-jenkins
 https://programmaticponderings.wordpress.com/page/2/
 http://techbeacon.com/7-takeaways-devops-enterprise-summit-2016
