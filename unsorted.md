@@ -1,3 +1,10 @@
+Good ones
+https://www.linkedin.com/pulse/devops-culture-within-rajashekar-s
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA1mAAAAJDRjYjUyMWRhLTA0NmQtNGZjMC04OWU3LTM4ZWU0NDNjZDc4Nw.png
+
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA25AAAAJDViYTRjZjc2LWVlN2ItNDkyMi05NWM2LTUyYWRmY2VhMzVlMQ.png
+
 
 
 My suggestion is to use a combination of tools (separation of concerns, the right tool for the right problem) that will help you to accomplish your objective, let me mention some of the ones that I've used:
