@@ -1,4 +1,14 @@
 
+
+My suggestion is to use a combination of tools (separation of concerns, the right tool for the right problem) that will help you to accomplish your objective, let me mention some of the ones that I've used:
+* SVN or Git (SCM)
+* Maven (Software project management and comprehesion tool)
+* Jenkins (To create/trigger your CI and CD process)
+  * Artifactory Plugin: https://wiki.jenkins-ci.org/display/JENKINS/Artifactory+Plugin (To promote your artifacts to Artifactory and to be able to release artifacts [https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Artifactory+Plugin+-+Release+Management])
+  * Rundeck Plugin: https://wiki.jenkins-ci.org/display/JENKINS/RunDeck+Plugin (To integrate Jenkins with Rundeck)
+  * Build Pipeline Plugin: https://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin (To create your delivery pipeline)
+* Artifactory http://www.jfrog.com/open-source/ (To store your SNAPSHOT and RELEASES of your artifacts)
+* Rundeck http://rundeck.org/ (To turn your operation procedures in self-service jobs)
 https://s-media-cache-ak0.pinimg.com/originals/c7/a0/ff/c7a0ffa76949884c6db342185821ee13.jpg
 https://image.slidesharecdn.com/devopsandprogrammaticinfrastructure-160919103700/95/devops-and-programmatic-infrastructure-37-638.jpg?cb=1475855439
 http://cloudbasic.net/wp-content/uploads/2016/02/DLM_Process.png
