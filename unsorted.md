@@ -122,3 +122,29 @@ http://zeroturnaround.com/rebellabs/top-10-jenkins-featuresplugins/
 http://continuousdev.com/2015/04/jenkins-plugins-you-want/
 
 http://www.tothenew.com/blog/7-must-have-jenkins-plugins/
+
+Application Performance Management - https://stackify.com/application-performance-management-solution/
+LogManagement - https://stackify.com/log-management/
+Performance Monitoring
+Debugging in Production
+Alerting
+Service monitoring
+Error tracking - https://stackify.com/error-monitoring/
+Performance metrics
+Production debugging
+Safety nets
+Application Metrics - https://stackify.com/application-metrics/
+
+
+Cloud
+https://thehftguy.files.wordpress.com/2017/03/nosql-flowchart.png
+
+
+
+
+
+http://cabotapp.com/
+
+https://stackshare.io
+
+
