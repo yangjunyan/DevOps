@@ -283,6 +283,12 @@ http://electric-cloud.com/resources/continuous-delivery-101/continuous-deploymen
 	http://electric-cloud.com/solutions/unlock-agile-bottleneck/
 	http://electric-cloud.com/solutions/iot-and-embedded/
 
+Service monitoring
+Error tracking
+Performance metrics
+Production debugging
+Safety nets
+
 
 * Configuration Management
 * Continuous Integration
