@@ -1,5 +1,5 @@
 
-
+https://stackify.com/log-management/
 Log Management: Graylog Vs ELK
 https://medium.com/jetruby/log-management-graylog-vs-elk-fc93428e0f66
 
