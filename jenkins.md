@@ -32,6 +32,13 @@ https://www.linkedin.com/pulse/setting-up-jenkins-master-slave-architecture-shas
 
 Pipeline as Code - Jenkinsfile
 
+
+
+
+Getting Started With Blue Ocean
+https://dzone.com/articles/getting-started-with-blue-ocean
+
+
 Declarative Pipeline
 
 What type pf teasl do you use Jenins for
