@@ -23,6 +23,7 @@ http://twimgs.com/ddj/images/article/2014/0514/Gradle8.gif
 
 # Helpers
 https://github.com/brunodles/GradleHelpers
+https://github.com/uli-heller/uli-gradle
 
 # Gradle Tutorial
 * [The Gradle build system- Tutorial](http://www.vogella.com/tutorials/Gradle/article.html)
