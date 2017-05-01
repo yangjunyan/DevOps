@@ -9,7 +9,7 @@
 ![1](http://twimgs.com/ddj/images/article/2014/0514/Gradle5.gif)
 ![1](http://twimgs.com/ddj/images/article/2014/0514/Gradle6.gif)
 ![1](http://twimgs.com/ddj/images/article/2014/0514/Gradle8.gif)
-	
+![1](http://2.bp.blogspot.com/-6NLaGMaJf4U/VV9eD4kyqCI/AAAAAAAABr4/doojS7m93uA/s1600/image-66d41527-f1df-4d59-9a74-f982f0a70292-828567098e47f760611263b14b7ce27d.png)
 
 * [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)
 * [Java Projects](https://docs.gradle.org/current/userguide/tutorial_java_projects.html)
