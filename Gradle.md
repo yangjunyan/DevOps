@@ -18,8 +18,8 @@
 * [Complete Guide](https://docs.gradle.org/current/userguide/userguide.pdf)
 
 # Helpers
-https://github.com/brunodles/GradleHelpers
-https://github.com/uli-heller/uli-gradle
+* https://github.com/brunodles/GradleHelpers
+* https://github.com/uli-heller/uli-gradle
 
 # Gradle Tutorial
 * [The Gradle build system- Tutorial](http://www.vogella.com/tutorials/Gradle/article.html)
