@@ -137,6 +137,11 @@ Continuous Delivery is a basic pre-requisite for Continuous Deployment.
 
 ![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-deployment.png)
 
+# Artifact Repository
+
+https://www.intertech.com/Blog/devops-tutorial-part-3-artifact-management/
+http://blog.sonatype.com/2009/04/what-is-a-repository/
+https://www.jfrog.com/support-service/whitepapers/6-reasons-devops-use-binary-repository-manager/
 
 # Continuous Delivery Maturity Model
 
