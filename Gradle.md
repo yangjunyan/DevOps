@@ -21,6 +21,9 @@ http://twimgs.com/ddj/images/article/2014/0514/Gradle8.gif
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
 * [Complete Guide](https://docs.gradle.org/current/userguide/userguide.pdf)
 
+# Helpers
+https://github.com/brunodles/GradleHelpers
+
 # Gradle Tutorial
 * [The Gradle build system- Tutorial](http://www.vogella.com/tutorials/Gradle/article.html)
 * [Gradle Tutorial](https://www.tutorialspoint.com/gradle/gradle_build_a_java_project.htm)
