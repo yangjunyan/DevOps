@@ -25,3 +25,11 @@ http://twimgs.com/ddj/images/article/2014/0514/Gradle8.gif
 * [The Gradle build system- Tutorial](http://www.vogella.com/tutorials/Gradle/article.html)
 * [Gradle Tutorial](https://www.tutorialspoint.com/gradle/gradle_build_a_java_project.htm)
 * [Playing with Gradle](https://develosapiens.wordpress.com/2015/05/08/playing-with-gradle/)
+
+
+# CheatSheet
+* [CheatSheet1](https://gist.github.com/jahe/59557d507f43574b0d96)
+* [CheatSheet2](http://codegists.com/snippet/gradle/gradle-cheatsheetgradle_pratikrjoshi_gradle)
+
+
+
