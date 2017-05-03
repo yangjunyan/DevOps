@@ -321,6 +321,8 @@ https://continuousdelivery.com/
 * Puppet
 * [Puppet Labs Moves Into Network and Storage Automation](http://blogs.wsj.com/cio/2014/06/24/puppet-labs-moves-into-network-and-storage-automation/)
 
+# DevOps BootCamp
+https://devopsbootcamp.osuosl.org/index.html
 
 ## Use Cases for Puppet and chef
 https://www.quora.com/Configuration-Management-Can-you-explain-what-are-the-usecases-for-puppet-and-chef
