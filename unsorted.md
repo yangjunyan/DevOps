@@ -6,6 +6,25 @@ https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA1mAAAAJDRjYjUyMWRhLTA0NmQtNGZjMC04
 https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA25AAAAJDViYTRjZjc2LWVlN2ItNDkyMi05NWM2LTUyYWRmY2VhMzVlMQ.png
 
 
+Nagios
+
+
+System Monitoring
+Protocol Monitoring
+Application Monitoring
+Database Monitoring
+Log Monitoring
+Bandwidth Monitoring
+
+
+Glimpse Free .NET 
+	Basic level of information tracing
+
+
+New Relic APM
+Dynatrace
+Application Insights (Microsoft)
+
 
 My suggestion is to use a combination of tools (separation of concerns, the right tool for the right problem) that will help you to accomplish your objective, let me mention some of the ones that I've used:
 * SVN or Git (SCM)
