@@ -7,6 +7,10 @@ https://newrelic.com/application-monitoring/features
 # Database Monitoring
 https://newrelic.com/application-monitoring/features#apm-database-monitoring
 
+# Availability & Error Monitoring
+
+https://newrelic.com/application-monitoring/features#apm-availability-and-error-monitoring
+
 # Server Monitoring
 
 
