@@ -24,6 +24,7 @@ http://www.monitis.com/blog/10-tips-for-monitoring-best-practices-alerting-and-n
 Zen and the Art of System Monitoring
 https://www.scalyr.com/community/guides/zen-and-the-art-of-system-monitoring
 
+https://www.logicmonitor.com/wp-content/uploads/2015/05/BP-for-Alert-Management.pdf
 
 Monitoring: Best Practices 
 https://msdn.microsoft.com/en-us/library/windows/desktop/bb226833(v=vs.85).aspx
