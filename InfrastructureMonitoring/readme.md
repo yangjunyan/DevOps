@@ -16,6 +16,7 @@ https://newrelic.com/infrastructure
 
 Mobile App Development with Ionic 2
 
+https://www.frameflow.com/event-monitor-types/
 
 10 Tips for Monitoring Best Practices (Alerting and Notifications)
 http://www.monitis.com/blog/10-tips-for-monitoring-best-practices-alerting-and-notifications/
