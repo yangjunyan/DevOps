@@ -170,6 +170,13 @@ All their code is in a single, shared repository, made up of billions of files, 
 # Free Course
 * [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
+# CALMS
+CALMS is a conceptual framework for the integration of development and operations (DevOps) groups, functions and systems within an organization; the acronym stands for:
+Culture
+Automation
+Lean
+Measurement
+Sharing
 
 What DevOps Is and What It Is Not
 https://dzone.com/articles/what-devops-is-and-is-not
