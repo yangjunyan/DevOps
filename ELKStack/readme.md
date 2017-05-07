@@ -7,6 +7,7 @@ https://logz.io/learn/complete-guide-elk-stack/
 Logstash Tutorial: How to Get Started
 https://logz.io/blog/logstash-tutorial/
 
+https://dzone.com/articles/using-elk-in-net-applications?
 
 The Full ELK Stack Installation Tutorial
 https://logz.io/learn/elk-stack-tutorial/
