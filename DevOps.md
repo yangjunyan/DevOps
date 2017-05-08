@@ -188,4 +188,6 @@ Why Continuous Delivery Is Key for Developer Career Success
 https://dzone.com/articles/why-continuous-delivery-is-key-for-developer-caree
 
 
+https://devops.com/get-devops-right-standout-technologies/
+
 https://dzone.com/articles/what-to-know-about-the-devops-journey-of-your-orga?
