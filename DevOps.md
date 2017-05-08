@@ -186,3 +186,6 @@ http://www.ranger4.com/ranger4-devops-blog/i-got-devops-certified
 
 Why Continuous Delivery Is Key for Developer Career Success
 https://dzone.com/articles/why-continuous-delivery-is-key-for-developer-caree
+
+
+https://dzone.com/articles/what-to-know-about-the-devops-journey-of-your-orga?
