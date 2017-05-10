@@ -52,7 +52,11 @@ Scalability and Capability Analysis
 * You can do load tests and check if your application is ready for scaling or to handle heavy load when required.
 * You can also monitor your applications response time trends and other factors to forecast when you will need to increase capacity, etc.
 
-
+Digital user experience monitoring
+Business transaction tracing and application code-level visibility
+Application topology discovery and dependency visualization
+Deep dive diagnostics into application and supporting infrastructure
+Application analytics and reporting
 
 # Use Cases for Application Performance Monitoring Tools
 * Use Case 1: Tuning Applications for Performance
