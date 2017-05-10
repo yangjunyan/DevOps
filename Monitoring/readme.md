@@ -263,13 +263,129 @@ http://apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-
 # APM Digest
 http://www.apmdigest.com/
 
-Vendor
+# Vendor
 https://www.eginnovations.com/product/use-cases
 https://www.quest.com/products/foglight-application-performance-monitoring/#
 https://www.flowmon.com
 https://www.zenoss.com/product/use-cases#target-hybrid-it-monitoring
 http://www.solarwinds.com/solutions/email-monitor
 https://www.techvalidate.com/collections/hp-application-performance-management-case-studies
+
+
+
+
+
+https://www.sevone.com/white-paper/real-world-use-cases-end-user-experience-monitoring
+http://7signal.com/blog/6-wi-fi-performance-management-use-cases/
+https://www.kentik.com/kentipedia/network-performance-monitoring-use-cases/
+https://www.nastel.com/application-performance-monitoring/
+https://www.radware.com/products/apm/
+https://smartbear.com/learn/performance-monitoring/what-is-application-performance-management/
+
+https://newrelic.com/insights/use-cases
+
+
+Java stack
+https://www.eginnovations.com/product/java-transaction-monitoring
+https://www.eginnovations.com/product/jvm-monitoring
+https://www.eginnovations.com/solutions/enterprise-applications
+https://www.eginnovations.com/solutions/end-user-experience-monitoring
+
+https://www.eginnovations.com/solutions/application-performance-management
+
+Monitor the health of your computer infrastructure or application
+
+Application have traditionally been delivered from servers and data centers, so the performance monitoring has focused on data center infrastructure, however the delivery chain for todays applications involves an increasingly complex data center, multi-tier, application architectures and an expanding mix of cloud services, third parties, CDNs, ISPs, mobile browsers and devices. 
+
+The above raises two issues. 
+* First the help that the infrastructure is no longer the only determinant of the performance the end user is seeing, which is the only perspective that really counts for business critical applications. 
+* Second, when you learn about a poorly performing application, how long does it take your production development team to reproduce the problem, find the root cause and fix it.
+
+Application Performance Monitoring Software has a task to become a service in your company that monitors computer infrastructure and application health. It collects various diagnostic data, such as performance metrics, event logs and traces.
+
+
+Use cases for Application Performance Monitoring
+It is crucial to use the Application Performance Monitoring Software to identify issues anywhere along the chain of a web server, cloud provider, content delivery network, mobile carriers or script problem in a browser. The average time to repair a failed component of the application reflects on the cost whether the application is in a production or under development. In order to gain more happy end-users and faster time to market, teams need to get immediate failure notifications and approach the problem as quick as possible.
+
+We have to keep in mind that Development and IT operations have different goals. Development is driven by needs for frequent delivery of new features, where IT is usually focused on availability, stability and cost efficiency. This of course has a serious business impact for example – loss of efficiency, reduced agility and customer dissatisfaction. A good Application Performance Monitoring platform should be able to cover the most of the components in Application Lifecycle. It should help both teams to increase efficiency and agility, monitor, troubleshoot, provide detailed app monitoring in production and integrate with the developer environment.
+
+Overall, Application Performance Management Software can be understood as the combination of tools that help in measurement and optimization of applications and systems used by software developers in their development, production and business processes.
+
+
+![1](https://www.eginnovations.com/images/application-performance-managements.png)
+
+
+
+
+Loging
+https://docs.logentries.com/docs/application-performance-monitoring-software/
+
+
+https://www.eginnovations.com/solutions/application-performance-management
+https://www.eginnovations.com/solutions/application-performance-monitoring
+https://www.eginnovations.com/product/java-performance-monitoring
+
+
+
+
+![1](https://dt-cdn.net/assets/images/gfx/headers/marketecture-65d709291f.svg)
+
+
+https://www.dynatrace.com/capabilities/
+
+https://www.dynatrace.com/technologies/java-monitoring/
+
+https://www.dynatrace.com/technologies/nodejs-monitoring/
+
+
+https://www.quest.com/solutions/performance-monitoring/
+https://www.quest.com/database-management/performance-monitoring/
+https://www.quest.com/solutions/performance-monitoring/#capabilities
+
+https://www.quest.com/solutions/performance-monitoring/#capabilities
+https://www.quest.com/solutions/virtualization-management/
+https://www.quest.com/solutions/microsoft-platform-management/
+https://www.quest.com/solutions/identity-and-access-management/
+https://www.quest.com/solutions/endpoint-systems-management/
+https://www.quest.com/database-management/
+
+https://www.quest.com/solutions/data-protection/
+
+https://www.zenoss.com/product/use-cases#target-hybrid-it-monitoring
+
+https://www.ibm.com/cloud-computing/learn-more/it-service-management/application-performance-management/
+
+https://www.flowmon.com/en/solutions/use-case/ddos-protection
+https://www.flowmon.com/en/solutions/use-case/application-performance-monitoring
+
+https://www.zenoss.com/product/use-cases/application-performance-monitoring
+
+http://apmdigest.com/advanced-operations-analytics-use-cases-and-perspectives
+
+https://saas.hpe.com/en-us/software/application-performance-management
+
+http://www.computerworld.com/article/2919001/app-development/the-changing-face-of-application-performance-management-apm.html
+# ROI
+https://saas.hpe.com/en-us/software/application-performance-management
+
+
+https://stackify.com/application-performance-management-solution/
+
+https://stackify.com/log-management/
+
+https://stackify.com/error-monitoring/
+
+https://stackify.com/application-metrics/
+
+
+https://www.manageengine.com/products/applications_manager/index.html?gclid=CMXK0Iby5dMCFQ5xfgodxIQOpg
+
+# Tool
+https://www.manageengine.com/products/applications_manager/applications-monitoring-features.html
+
+
+https://newrelic.com/synthetics/features
+
 
 # URL
 
