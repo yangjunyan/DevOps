@@ -198,3 +198,17 @@ REST API
 Elasticsearch
 ServiceDesk Plus
 ManageEngine OpManager
+
+
+
+Key Features and Benefits of Mainframe Application Performance Management
+
+* Improve user code efficiency, transaction response time and throughput.
+* Locate and improve resource-consumptive database calls.
+* Quickly pinpoint the source of application inefficiencies.
+* Identify SQL statements and DB2 system services that cause excessive CPU time or wait time.
+* Receive detailed DB2 tuning information including catalog statistics and the number of GET PAGE requests for each SQL statement.
+* Enable new users to be more productive with a graphical interface for taking measurements and detecting mainframe application performance problems.
+* Launch Strobe directly from BMC’s MainView or Cost Analyzer for zEnterprise to quickly and easily identify tuning opportunities that will have the greatest impact on monthly software licensing costs
+
+
