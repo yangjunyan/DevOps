@@ -251,3 +251,13 @@ Key Features and Benefits of Mainframe Application Performance Management
 * **Compliance Tracking* - Track user logins, access durations and application usage for compliance reporting. Alert on exceptions for immediate remediation. Detect and report history of configuration changes and cross-correlate with performance degradations.
 * **Performance Optimization* - As IT infrastructures become software-defined, adding more hardware only alleviates performance problems temporarily. With visibility into the performance of every layer, every tier of the infrastructure, you can determine how to optimally utilize the current infrastructure investments to do more.
 * **Release Preparedness * - Prior to release, get the diagnostics and actionable intelligence you need to eliminate any bottleneck areas. Immediately after deployment, get the deep visibility and insights you need to troubleshoot and resolve new issues that come up.
+
+
+![1](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/APM_Conceptual_Framework.jpg/750px-APM_Conceptual_Framework.jpg)
+![2](http://apmdigest.com/sites/default/files/images/Auto%20Club%20Group%202012-04.jpg)
+![2](https://www.manageengine.com/products/applications_manager/images/apm-flow.png)
+![2](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhSAAAAJDI4OTkxMDQzLWNjNDktNDA5MS04NjRmLWYxZGFlZDk3MmFjMA.png)
+![2](https://www.appdynamics.com/media/uploaded-images/1455036738/.thumbnails/application-performance-management-figure-1-1220x0.png)
+![2](https://www.appdynamics.com/media/uploaded-images/1455834404/.thumbnails/application-performance-management-fig1-1220x0.png)
+![2](https://www.appdynamics.com/media/uploaded-images/1455036738/.thumbnails/application-performance-management-figure-2-1220x0.png)
+![2](https://www.appdynamics.com/media/uploaded-images/1486496038/.thumbnails/alert-respond-overview-1220x0.png)
