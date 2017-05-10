@@ -32,6 +32,28 @@
 * Mobile Monitoring [https://newrelic.com/mobile-monitoring/features] 
 
 
+Availability Monitoring
+* Monitor whether your application is actually up and running or not.
+* Get email notifications when your application is down.
+
+Custom Error Recording
+* Create custom error recording and New Relic will record and show the errors in a neat graph for you.
+* You can also see Stack trace for each error.
+
+Key Transaction Tracking
+* Key transaction monitoring (irrespective of whether it is in model, controller or database, etc.)
+* New Relic generally monitors all the transactions; however, it also enables you to track key transactions for a tighter control and understanding of how your application is working / affected when it's in the wild.
+
+External Service Call Recording
+* Many applications interact with external services through APIs and other means (eg: API calls to Facebook, Twitter, etc.); New Relic enables you to record and monitor Service Calls.
+* Service calls can significantly affect the performance of an application; and External Service Call recording enables you to have this under control by having the right information at hand at the right time.
+
+Scalability and Capability Analysis
+* You can do load tests and check if your application is ready for scaling or to handle heavy load when required.
+* You can also monitor your applications response time trends and other factors to forecast when you will need to increase capacity, etc.
+
+
+
 # Use Cases for Application Performance Monitoring Tools
 * Use Case 1: Tuning Applications for Performance
 * Use Case 2: Correlating Performance Metrics Between Environments
