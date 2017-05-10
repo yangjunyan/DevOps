@@ -51,6 +51,30 @@ https://blog.profitbricks.com/application-performance-management-tools/
 * Infrastructure Monitoring [https://newrelic.com/infrastructure/features]
 * Browser Monitoring [https://newrelic.com/browser-monitoring/features]
 * Mobile Monitoring [https://newrelic.com/mobile-monitoring/features] 
+SQL Health Monitor
+Exchange Health Monitor
+SharePoint Health Monitor
+Windows Service Monitor
+
+Website Performance Monitoring
+Web Page Analyzer
+DNS Server Monitoring
+Monitoring from 60+ Global locations
+Website Availability Monitoring (HTTP / HTTPS)
+Webpage Defacement Monitoring
+FTP Monitoring
+REST API Monitoring
+SSL Certificate Monitoring
+Synthetic Transaction Monitoring
+Real User Monitoring
+End User Experience Monitoring
+Monitor your Internal Network
+Mail Server Monitoring
+RESTful APIs
+SOAP Web Services Monitoring
+Ping, TCP Port, POP, IMAP and SMTP Monitoring
+
+https://www.site24x7.com/features.html
 
 
 Availability Monitoring
