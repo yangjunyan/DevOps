@@ -1,5 +1,26 @@
 # Monitoring
 
+# Application Performance Monitoring (APM)
+
+Components of a complete application performance management solution:
+* Performance of individual web requests or transactions
+* Usage and performance of all application dependencies like databases, web services, caching, etc
+* Detailed transaction traces down to specific lines of code
+* Code level performance profiling
+* Basic server metrics like CPU, memory, etc
+* Application framework metrics like performance counters, JMX mBeans, etc
+* Custom applications metrics created by the dev team or business
+* Application log data
+* Application errors
+* Real user monitoring
+
+
+New Relic
+AppDynamics
+https://stackify.com/application-performance-management-solution/
+https://blog.profitbricks.com/application-performance-management-tools/
+
+
 # 3 Types of APM monitoring tools
 * **App Metrics based** – Several tools use various server and app metrics and call it APM. At best they can tell you how many requests your app gets and potentially which URLs might be slow. Since they don’t do code level profiling, they can’t tell you why.
 * **Code level performance** – Stackify Retrace, New Relic, AppDynamics, and Dynatrace are the typical type of APM products you think of, based on code profiling and transaction tracing.
