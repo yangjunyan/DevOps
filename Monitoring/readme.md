@@ -56,3 +56,145 @@
 * Garbage collection suspension time
 * Network traffic, TCP requests and retransmissions
 * All requests, all dependencies
+
+
+
+# Application Server Monitoring
+JBoss
+Tomcat
+Jetty Application Server
+VMware vFabric tc Server
+IBM WebSphere
+Oracle WebLogic
+Oracle Application Server
+Microsoft .NET
+SilverStream
+GlassFish
+Resin
+Wildfly
+
+# Database Monitoring
+Oracle
+Microsoft SQL Server
+MySQL
+IBM Informix
+IBM DB2
+Sybase
+PostgreSQL
+Cassandra
+Couchbase
+HBase
+Memcached
+MongoDB
+Oracle NoSQL
+SAP HANA
+Redis
+Database Query Monitor
+
+# Server Monitoring
+Windows Server
+Windows Server Cluster
+Hardware Monitoring
+Linux Servers
+Solaris Servers
+IBM AIX
+IBM AS400
+HP-Unix/Tru64 Unix
+FreeBSD
+Novell
+Mac OS
+Windows Event Log Monitoring
+
+
+# Virtualization Monitoring
+VMware ESX/ESXi
+Microsoft Hyper-V
+Citrix XenServer
+Citrix XenApp
+VMware Horizon View
+Docker
+Virtual Machine Monitoring
+Automatic Virtual Resource Provisioning
+
+# Big Data Monitoring
+Hadoop
+Apache Spark
+
+# ERP Monitoring
+Microsoft Dynamics CRM
+SAP
+Oracle E-Business Suite
+Siebel Server
+
+# End User Monitoring
+Synthetic Transaction Monitoring
+End User Monitoring from branch offices
+
+# Mail Servers
+Microsoft Exchange
+Mail Servers
+
+# Middleware/Portal Monitoring
+Microsoft Lync Server
+Microsoft BizTalk
+Oracle Tuxedo
+IBM WebSphere MQ
+WebSphere MQ Message Broker
+MS Office SharePoint
+WebLogic Integration Server
+Microsoft Message Queue (MSMQ)
+VMware vFabric RabbitMQ
+Microsoft Azure Service Bus
+Apache Kafka
+Apache ActiveMQ
+
+# Web Transaction Monitoring
+Java Web Transactions
+.NET Web Transactions
+Ruby on Rails Web Transactions
+Java Runtime Monitoring
+
+# Custom Monitor Types
+JMX Monitoring | JMX Consoles
+SNMP Consoles
+File System Monitor
+Windows Performance Counters
+Script Monitoring
+Database Query Monitor
+
+# Website Monitoring
+URL Monitoring
+Record & Playback HTTP Requests
+URL Content Monitoring
+Real Browser Monitor
+
+# Cloud Monitoring
+Amazon EC2 | Amazon RDS
+OpenStack
+Microsoft Azure 
+Virtual Machine Monitoring
+Microsoft Azure Storage Monitoring
+Windows Azure Cloud Services
+Automated Cloud Resource Management
+
+# Services
+Apache Solr
+Ceph
+JMX
+Oracle Coherence
+SNMP
+LDAP | DNS | FTP | Ping | TCP Ports
+Apache Zookeeper
+
+# Web Server/Web Services
+Web Services (SOAP)
+Apache
+Microsoft IIS
+Nginx
+PHP
+SSL Certificates
+Active Directory
+REST API
+Elasticsearch
+ServiceDesk Plus
+ManageEngine OpManager
