@@ -23,3 +23,18 @@
 * Infrastructure Monitoring [https://newrelic.com/infrastructure/features]
 * Browser Monitoring [https://newrelic.com/browser-monitoring/features]
 * Mobile Monitoring [https://newrelic.com/mobile-monitoring/features] 
+
+
+# Use Cases for Application Performance Monitoring Tools
+* Use Case 1: Tuning Applications for Performance
+* Use Case 2: Correlating Performance Metrics Between Environments
+* Use Case 3: Debugging Late-Stage and Production Issues
+* Use Case 4: Monitoring Real-World Application Usage
+* Use Case 5: Continuously Testing Business Processes, Services and Networks
+* Synthetic monitoring for SLA measurement
+* Transaction tracing and root cause analysis
+* Predictive analytics or proactive service management
+* Monitoring business processes via synthetic transaction monitoring
+* Application diagnostics
+* Agent-less infrastructure monitoring
+* Business transaction monitoring
