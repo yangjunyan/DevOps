@@ -256,6 +256,22 @@ Key Features and Benefits of Mainframe Application Performance Management
 * **Performance Optimization* - As IT infrastructures become software-defined, adding more hardware only alleviates performance problems temporarily. With visibility into the performance of every layer, every tier of the infrastructure, you can determine how to optimally utilize the current infrastructure investments to do more.
 * **Release Preparedness * - Prior to release, get the diagnostics and actionable intelligence you need to eliminate any bottleneck areas. Immediately after deployment, get the deep visibility and insights you need to troubleshoot and resolve new issues that come up.
 
+# APM strategy
+http://apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-strategy
+
+
+# APM Digest
+http://www.apmdigest.com/
+
+Vendor
+https://www.eginnovations.com/product/use-cases
+https://www.quest.com/products/foglight-application-performance-monitoring/#
+https://www.flowmon.com
+https://www.zenoss.com/product/use-cases#target-hybrid-it-monitoring
+http://www.solarwinds.com/solutions/email-monitor
+https://www.techvalidate.com/collections/hp-application-performance-management-case-studies
+
+# URL
 
 ![1](https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/APM_Conceptual_Framework.jpg/750px-APM_Conceptual_Framework.jpg)
 ![2](http://apmdigest.com/sites/default/files/images/Auto%20Club%20Group%202012-04.jpg)
