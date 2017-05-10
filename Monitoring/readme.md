@@ -1,5 +1,12 @@
-
 # Monitoring
+
+# 3 Types of APM monitoring tools
+* **App Metrics based** – Several tools use various server and app metrics and call it APM. At best they can tell you how many requests your app gets and potentially which URLs might be slow. Since they don’t do code level profiling, they can’t tell you why.
+* **Code level performance** – Stackify Retrace, New Relic, AppDynamics, and Dynatrace are the typical type of APM products you think of, based on code profiling and transaction tracing.
+* **Network based** – Extrahop uses the term APM in regards to their ability to measure application performance based on network traffic. There is a whole product category called NPM that focuses on this type of solutions.
+
+
+# Types
 * Application Monitoring [https://newrelic.com/application-monitoring/features]
 * Network Monitoring
 * Server Monitoring (Windows, Linux, Solaris, HP-UX, AIX) [https://www.eginnovations.com/product/server-monitoring]
