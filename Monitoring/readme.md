@@ -219,3 +219,13 @@ Key Features and Benefits of Mainframe Application Performance Management
 * Launch Strobe directly from BMC’s MainView or Cost Analyzer for zEnterprise to quickly and easily identify tuning opportunities that will have the greatest impact on monthly software licensing costs
 
 
+
+
+* **Application Availability* - On an average, one hour of downtime costs businesses $474,000 in lost revenue. eG Enterprise helps you to monitor, pre-emptively detect and quickly resolve application issues. This way, you can prevent downtime and ensure great performance and user satisfaction and save your business tons of money.
+* **Migration* - When application infrastructures are migrated, the key acceptance criteria is user experience. eG Enterprise helps you benchmark performance before and after migration. Comparing key metrics across the two scenarios, you can identify problems introduced during migration and fix them quickly.
+* **Cost Reduction* - Many a times, hardware is added indiscretely in a bid to solve performance problems. This results in cost overruns and stalls IT transformation initiatives. eG Enterprise helps you identify bottlenecks, maximize resource utilization and reduce hardware and software costs and to right-size your IT infrastructure.
+* **Scaling Rollouts* - IT managers are looking for ways to scale their infrastructure – to support more users, new workloads, etc. eG Enterprise’s historical reporting and predictive analytics help identify bottlenecks in the infrastructure. Thus, you can determine where to make investments to allow the infrastructure to scale.
+* **Operational Efficiency* - By making it possible to diagnose problems with one click, eG Enterprise empowers helpdesk personnel to manage and troubleshoot performance issues. This way, organizations can significantly reduce their IT operations costs.
+* **Compliance Tracking* - Track user logins, access durations and application usage for compliance reporting. Alert on exceptions for immediate remediation. Detect and report history of configuration changes and cross-correlate with performance degradations.
+* **Performance Optimization* - As IT infrastructures become software-defined, adding more hardware only alleviates performance problems temporarily. With visibility into the performance of every layer, every tier of the infrastructure, you can determine how to optimally utilize the current infrastructure investments to do more.
+* **Release Preparedness * - Prior to release, get the diagnostics and actionable intelligence you need to eliminate any bottleneck areas. Immediately after deployment, get the deep visibility and insights you need to troubleshoot and resolve new issues that come up.
