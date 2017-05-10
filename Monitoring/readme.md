@@ -38,3 +38,21 @@
 * Application diagnostics
 * Agent-less infrastructure monitoring
 * Business transaction monitoring
+
+
+# Get all .NET details
+* Garbage collection metrics
+* Web request and response size
+* Busy and idle threads
+* .NET managed memory
+* Restarts, crashes, deployment changes
+* Response time
+* Failure rate
+* Throughput
+* Request and response sizes
+* All database statements
+* Apdex score
+* CPU and memory usage
+* Garbage collection suspension time
+* Network traffic, TCP requests and retransmissions
+* All requests, all dependencies
