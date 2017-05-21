@@ -10,6 +10,7 @@
 
 *Kibana:*  A nifty tool to visualize logs and timestamped data.
 
+
 * [Learn](https://www.elastic.co/guide/index.html)
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
@@ -21,6 +22,9 @@ https://logz.io/learn/complete-guide-elk-stack/
 
 ELK - LOGSTASH, ELASTICSEARCH, AND KIBANA
 http://www.bogotobogo.com/Hadoop/ELK/ELK_ElasticSearch_Logstash_Kibana4.php
+
+# ELK - SAMPLES OF ELK ARCHITECTURE
+http://www.bogotobogo.com/Hadoop/ELK/ELK_Architecture_Samples_ElasticSearch_Logstash_Kibana.php
 
 https://www.elastic.co/products
 
