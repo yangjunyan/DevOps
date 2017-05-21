@@ -1,3 +1,4 @@
+# ELK Stack (Now the Elastic Stack)
 
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
