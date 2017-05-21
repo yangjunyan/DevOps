@@ -4,6 +4,12 @@
 
 * [Welcome to the ELK Stack: Elasticsearch, Logstash, and Kibana](https://qbox.io/blog/welcome-to-the-elk-stack-elasticsearch-logstash-kibana)
 
+** Logstash:**  It is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs. It is fully free and fully open source.
+
+** Elasticsearch:**  Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents.
+
+** Kibana:**  A nifty tool to visualize logs and timestamped data.
+
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
 The Complete Guide to the ELK Stack
