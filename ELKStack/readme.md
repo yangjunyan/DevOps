@@ -41,6 +41,16 @@ https://logz.io/learn/complete-guide-elk-stack/
 Logstash Tutorial: How to Get Started
 https://logz.io/blog/logstash-tutorial/
 
+# ELK as a service 
+Elastic
+Qbox
+Logit.io
+Sematext
+Logz.io
+Digital Ocean – Elk
+http://community.visualize-it.co/knowledgebase/collecting-performance-data-from-unix-systems-using-topbeat-and-elk/
+
+
 https://dzone.com/articles/using-elk-in-net-applications?
 
 The Full ELK Stack Installation Tutorial
@@ -82,3 +92,7 @@ Some successful ELK log analytics use cases include:
 * Compliance
 * Security analysis
 * Fraud detection
+
+http://i0.wp.com/community.visualize-it.co/wp-content/uploads/2016/02/elk-flow.png
+
+https://wikitech.wikimedia.org/wiki/Logstash#/media/File:Wikipedia_webrequest_flow_2015-10.png
