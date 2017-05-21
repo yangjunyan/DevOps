@@ -75,3 +75,10 @@ https://qbox.io/blog/redis-logs-elasticsearch-logstash-kibana
 
 https://bulldogjob.pl/articles/398-monitoring-net-applications-with-elk
 
+Some successful ELK log analytics use cases include:
+* Risk management
+* Market intelligence
+* E-commerce personalization
+* Compliance
+* Security analysis
+* Fraud detection
