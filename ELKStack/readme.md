@@ -10,7 +10,7 @@
 
 *Kibana:*  A nifty tool to visualize logs and timestamped data.
 
-
+* [Learn](https://www.elastic.co/guide/index.html)
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
 The Complete Guide to the ELK Stack
@@ -54,9 +54,11 @@ Real time monitoring of .NET web applications with logstash, elasticsearch and K
 http://spencerooni.github.io/2015/07/10/real-time-monitoring-of-.net-web-applications-with-logstash-elasticsearch-and-kibana.html
 
 
+How to Integrate Slack with Elasticsearch, Logstash, and Kibana
+https://qbox.io/blog/integrate-slack-elasticsearch-logstash-kibana-elk
 
-
-
+How to Use Elasticsearch, Logstash, and Kibana to Manage Redis Logs
+https://qbox.io/blog/redis-logs-elasticsearch-logstash-kibana
 
 https://bulldogjob.pl/articles/398-monitoring-net-applications-with-elk
 
