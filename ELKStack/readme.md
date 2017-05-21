@@ -16,6 +16,8 @@
 The Complete Guide to the ELK Stack
 https://logz.io/learn/complete-guide-elk-stack/
 
+The Complete Guide to the ELK Stack
+https://logz.io/learn/complete-guide-elk-stack/
 
 https://www.elastic.co/products
 
@@ -24,6 +26,7 @@ https://www.elastic.co/learn
 
 https://www.elastic.co/guide/en/logstash/current/introduction.html
 
+https://logz.io/learn/complete-guide-elk-stack/
 
 Logstash Tutorial: How to Get Started
 https://logz.io/blog/logstash-tutorial/
