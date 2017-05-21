@@ -1,5 +1,9 @@
 # ELK Stack (Now the Elastic Stack)
 
+* The ELK stack consists of Elasticsearch, Logstash, and Kibana. 
+
+* [Welcome to the ELK Stack: Elasticsearch, Logstash, and Kibana](https://qbox.io/blog/welcome-to-the-elk-stack-elasticsearch-logstash-kibana)
+
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
 The Complete Guide to the ELK Stack
