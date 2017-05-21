@@ -23,6 +23,9 @@ https://www.elastic.co/products
 
 https://www.elastic.co/learn
 
+# Usecase
+https://logz.io/product/#tab-6a5f99f5d900b26b85f
+
 
 https://www.elastic.co/guide/en/logstash/current/introduction.html
 
