@@ -137,6 +137,9 @@ Continuous Delivery is a basic pre-requisite for Continuous Deployment.
 
 ![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-deployment.png)
 
+# For Ideas
+https://cdinsight.wordpress.com
+
 # Artifact Repository
 
 https://www.intertech.com/Blog/devops-tutorial-part-3-artifact-management/
