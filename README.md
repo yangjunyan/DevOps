@@ -458,6 +458,6 @@ http://dtosolutions.com/devops/devops-workshops/
 ![1](https://dzone.com/storage/temp/3557679-devops-cycle.png)
 ![1](https://dzone.com/storage/temp/3557774-devops-scenario.png)
 ![1](https://www.accenture.com/t20161130T204327__w__/us-en/_acnmedia/Accenture/Conversion-Assets/Blogs/Images/19/Accenture-Practical-Benefits-Thumbnail.jpg?la=en)
-
+![1](https://cdinsight.files.wordpress.com/2015/07/fit-quality-in-cd-pipeline.jpg)
 # DevOps Roadmap
 ![1](https://camo.githubusercontent.com/bdc81def398a0d13b70066783021b789e922fb91/68747470733a2f2f692e696d6775722e636f6d2f6c324b4e4859492e706e67)
