@@ -50,7 +50,7 @@ https://medium.com/podio-engineering-blog/how-we-use-podio-fastlane-and-jenkins-
 Using Fastlane Tools and Android
 https://medium.com/@kmlong1183/using-fastlane-tools-and-android-2e8d76bb138b
 
-
+http://thebugcode.github.io/ios-continous-integration-choosing-a-build-server-and-tooling/
 http://www.lunarlincoln.com/continuous-integration-for-ios/
 
 
