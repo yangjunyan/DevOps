@@ -364,6 +364,16 @@ https://www.youtube.com/watch?v=PheuDcnWS_c
 http://dtosolutions.com/devops/devops-workshops/
 
 
+Getting Started with Secure DevOps
+https://devops.com/getting-started-secure-devops/
+
+
+SQL Server Data Tools in your DevOps pipeline
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-in-your-DevOps-pipeline
+
+
+
+
 Starting and Scaling DevOps in the Enterprise: Optimizing The Basic Deployment Pipeline 
 https://dzone.com/articles/starting-and-scaling-devops-in-the-enterprise-opti
 
