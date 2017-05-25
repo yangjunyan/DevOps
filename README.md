@@ -363,6 +363,14 @@ https://www.youtube.com/watch?v=PheuDcnWS_c
 # Workshop
 http://dtosolutions.com/devops/devops-workshops/
 
+
+Starting and Scaling DevOps in the Enterprise: Optimizing The Basic Deployment Pipeline 
+https://dzone.com/articles/starting-and-scaling-devops-in-the-enterprise-opti
+
+
+A/B Testing and Web Performance 
+https://dzone.com/articles/ab-testing-and-web-performance
+
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb665.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb666.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb667.png)
