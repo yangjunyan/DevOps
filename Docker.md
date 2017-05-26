@@ -248,6 +248,9 @@ https://dzone.com/articles/containers-5-docker-logging-best-practices-for-synthe
 5 Docker Utilities You Should Know
 https://blog.xebialabs.com/2017/05/18/5-docker-utilities-you-should-know/
 
+Developing a Spring Boot app on Docker: The AtSea Demo App
+https://blog.docker.com/2017/05/developing-spring-boot-app-docker-atsea-demo-app/
+
 
 ## webinars
 * [Docker Webinars](https://www.docker.com/products/resources/webinars)
