@@ -102,6 +102,8 @@ To check in code to source control
 5. Check in the modified files. There should be no merge conflicts because you synchronized them in step 3.
 6. Review the code for missing comments while the CI build is running. After the CI build completes and passes all the unit tests, you can move on to next task. If the CI build fails, fix the issue because you are now blocking other developers from integrating their code.
 
+# Metrics
+* [Improving DevOps Success with Well-Defined Metrics](https://devops.com/improving-devops-success-metrics/)
 
 * [Monitoring in the DevOps Pipeline](https://insights.sei.cmu.edu/devops/2015/12/monitoring-in-the-devops-pipeline.html)
 
