@@ -372,6 +372,22 @@ SQL Server Data Tools in your DevOps pipeline
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-in-your-DevOps-pipeline
 
 
+7 Highly Effective Continuous Delivery Principles
+https://devops.com/7-highly-effective-continuous-delivery-principles/
+
+Set up custom process groups for monitoring
+https://www.dynatrace.com/blog/set-custom-process-groups-monitoring/
+
+How Capital One Automates Automation Tools 
+https://dzone.com/articles/how-capital-one-automates-automation-tools
+
+Embedding Ownership: A DevOps Best Practice 
+https://dzone.com/articles/embedding-ownership-a-devops-best-practice
+
+
+Business impact analysis now provided with each detected problem
+https://www.dynatrace.com/blog/business-impact-analysis-now-provided-detected-problem/
+
 
 
 Starting and Scaling DevOps in the Enterprise: Optimizing The Basic Deployment Pipeline 
