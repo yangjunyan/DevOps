@@ -122,6 +122,7 @@ https://www.voxxed.com/blog/2016/09/deployment-pipeline-using-docker-jenkins-jav
 ASP.NET Core on Docker
 https://carlos.mendible.com/2016/09/26/step-by-step-asp-net-core-on-docker/
 
+* [Using .NET and Docker Together](https://blogs.msdn.microsoft.com/dotnet/2017/05/25/using-net-and-docker-together/)
 
 
 https://dzone.com/articles/docker-adoption-pathway-part-3?
