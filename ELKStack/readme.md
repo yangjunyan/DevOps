@@ -85,6 +85,10 @@ https://qbox.io/blog/redis-logs-elasticsearch-logstash-kibana
 
 https://bulldogjob.pl/articles/398-monitoring-net-applications-with-elk
 
+Monitor Service Uptime With Heartbeat and the ELK Stack 
+https://dzone.com/articles/monitor-service-uptime-with-heartbeat-and-the-elk
+
+
 Some successful ELK log analytics use cases include:
 * Risk management
 * Market intelligence
