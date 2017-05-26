@@ -23,3 +23,8 @@ Reliability
 http://www.scalescale.com/wp-content/uploads/2014/11/how-cloudflare-works4.png
 
 https://www.scalescale.com/scaling-cloudflares-massive-waf/#
+
+
+User session analysis and search enhancements
+https://www.dynatrace.com/blog/user-session-analysis-search-enhancements/
+
