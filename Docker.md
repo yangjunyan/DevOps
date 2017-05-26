@@ -239,6 +239,16 @@ https://dzone.com/articles/docker-adoption-pathway-part-3?
 * [Infrastructure Optimization with Docker](https://www.docker.com/sites/default/files/SB_Infrastructure%20Optimization%2006.03.2016.pdf)
 * [Delivering Containers-as-a-Service (CaaS) With Docker Datacenter](https://www.docker.com/sites/default/files/DR_Datasheet_Caas%20Datacenter_042716_V2-2_3.pdf)
 
+DockerCon Hands-on Labs now online
+https://blog.docker.com/2017/05/dockercon-hands-labs-now-online/
+
+5 Docker Logging Best Practices
+https://dzone.com/articles/containers-5-docker-logging-best-practices-for-synthetic-monitoring
+
+5 Docker Utilities You Should Know
+https://blog.xebialabs.com/2017/05/18/5-docker-utilities-you-should-know/
+
+
 ## webinars
 * [Docker Webinars](https://www.docker.com/products/resources/webinars)
 
