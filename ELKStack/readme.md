@@ -70,6 +70,8 @@ The Definitive Guide to AWS Log Analytics Using ELK
 https://logz.io/learn/definitive-guide-aws-log-analytics-elk/
 
 
+Visualizing data with Elasticsearch, Logstash and Kibana
+https://blog.webkid.io/visualize-datasets-with-elk/
 The Definitive Guide to AWS Log Analytics Using ELK
 https://logz.io/learn/definitive-guide-aws-log-analytics-elk/
 
