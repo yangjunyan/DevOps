@@ -6,6 +6,112 @@ https://dzone.com/articles/optimizing-streaming-media-performance-7-things-yo
 
 
 
+Ultimate List of DevOps Tools for Complete DevOps Solution
+http://skillslane.com/ultimate-list-devops-tools/
+
+Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs
+https://stackify.com/top-devops-tools/
+
+http://skillslane.com/wp-content/uploads/2016/05/devops-tools.jpg
+
+
+
+
+https://www.ibm.com/developerworks/library/d-drive-agile-lifecycle-management-devops/index.html
+https://www.ibm.com/developerworks/security/library/d-robust-effective-information-security-devops/index.html
+https://www.ibm.com/developerworks/library/d-develop-reliable-software-devops/index.html
+
+
+Automation as a Service — Introducing Scriptflask
+https://medium.com/netflix-techblog/automation-as-a-service-introducing-scriptflask-17a8e4ad954b
+
+Top 10 Challenges to DevOps Implementation
+http://www.ranger4.com/ranger4-devops-blog/top-10-challenges-to-devops-implementation
+
+Availability: Nuance As A Service
+http://www.kitchensoap.com/2013/01/03/availability-nuance-as-a-service/
+
+
+Best Log Management Tools: 50 Useful Tools for Log Management, Monitoring, Analytics, and More
+https://stackify.com/best-log-management-tools/
+
+What Does DevOps Look Like in 2017? 
+http://www.ranger4.com/ranger4-devops-blog/devops-2017
+
+The Basics of Web Application Security
+https://martinfowler.com/articles/web-security-basics.html
+
+Building a Better Mobile Crash Analytics Platform
+https://codeascraft.com/2016/11/04/building-a-better-mobile-crash-analytics-platform/
+
+# The DevOps Checklist
+http://theshipshow.com/2015/12/the-devops-checklist-manifesto/
+
+
+Monitoring Survey 2015 - Metrics
+Monitoring Survey 2015 - Data
+Monitoring Survey 2015 - Background
+Monitoring Survey 2015 - Demographics
+Monitoring Survey 2015 - Tools
+Monitoring Survey 2015 - Environments
+Monitoring Survey 2015 - Effectiveness
+
+https://kartar.net/2015/08/monitoring-survey-2015---background/
+https://kartar.net/2015/08/monitoring-survey-2015---data/
+
+
+# Art Of Monitoring 
+Chapter 1: An Introduction to Monitoring
+Chapter 2: Monitoring, Metrics and Measurement
+Chapter 3: Events and metrics with Riemann
+Chapter 4: Metrics with Graphite and Grafana
+Chapter 5: Host-based monitoring with collectd
+Chapter 6: Hosts and services in Riemann
+Chapter 7: Containers - another kind of host
+Chapter 8: Logs and Logging with Logstash
+Chapter 9: Building monitored applications
+Chapter 10: Alerting and Alert Management
+Chapters 11-13: Monitoring an application and stack
+Appendix A: An introduction to Clojure
+
+
+
+https://victorops.com/blog/sweet-17-check-latest-bracket-victorops-integrations/
+
+
+http://electric-cloud.com/blog/2017/05/starting-and-scaling-devops-in-enterprise-the-basic-deployment-pipeline/
+
+http://electric-cloud.com/blog/2017/05/starting-and-scaling-devops-in-the-enterprise-get-the-map-to-guide-you-on-your-path/
+
+http://electric-cloud.com/blog/2017/05/weekly-top-10-devops-strategy/
+
+
+How Etsy Ships Apps
+
+https://codeascraft.com/2017/05/15/how-etsy-ships-apps/
+
+
+https://stackify.com/n-tier-architecture/
+
+
+Builder: Habitat Build Service
+https://blog.chef.io/2017/05/23/habitat-build-service-builder/
+
+
+What Is Performance Testing?
+https://stackify.com/performance-testing-business-explanation/
+
+Best Log Management Tools: 50 Useful Tools for Log Management, Monitoring, Analytics, and More
+https://stackify.com/best-log-management-tools/
+
+http://electric-cloud.com/blog/2017/05/devops-tips-inspiration-metrics/
+DevOps Tips and Inspiration: Metrics
+
+
+
+Ways for Companies to Develop and Deliver Better Software Faster 
+https://dzone.com/articles/ways-for-companies-to-develop-and-deliver-better-s
+
 
 
 
