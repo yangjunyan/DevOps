@@ -1,5 +1,10 @@
 http://www.solarwinds.com/server-application-monitor
 
+
+Optimizing Streaming Media Performance: 7 Things You Need to Monitor 
+https://dzone.com/articles/optimizing-streaming-media-performance-7-things-yo
+
+
 Good ones
 https://www.linkedin.com/pulse/devops-culture-within-rajashekar-s
 
