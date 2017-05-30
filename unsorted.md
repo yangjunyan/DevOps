@@ -4,6 +4,31 @@ http://www.solarwinds.com/server-application-monitor
 Optimizing Streaming Media Performance: 7 Things You Need to Monitor 
 https://dzone.com/articles/optimizing-streaming-media-performance-7-things-yo
 
+New Relic Synthetics Monitoring Using Selenium
+https://dzone.com/articles/new-relic-synthetics-monitoring-using-selenium
+
+https://xebialabs.com/assets/files/uploads/software-pipeline.png
+
+https://xebialabs.com/devops-intelligence/
+https://xebialabs.com/products/xl-release/
+https://xebialabs.com/resources/
+
+
+https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/02/traceability-with-continuous-testing/
+https://jaxenter.com/which-logging-tool-is-right-for-me-121414.html
+
+https://cdinsight.wordpress.com/2015/09/07/improve-test-automation-visibility-to-succeed-in-agile-quality-transformation/
+https://cdinsight.wordpress.com/2015/06/15/how-to-measure-continuous-delivery/
+
+https://xebialabs.com/products/xl-deploy/
+
+Artificial Intelligence for Software Testing 
+
+https://jaxenter.com/wp-content/uploads/2015/10/Screenshot-SumoLogic-1024x906.png
+
+https://xebialabs.com/assets/files/uploads/software-pipeline.png
+
+https://jaxenter.com/which-logging-tool-is-right-for-me-121414.html
 
 
 Ultimate List of DevOps Tools for Complete DevOps Solution
