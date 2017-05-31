@@ -109,7 +109,7 @@ https://blog.docker.com/2017/03/dockercon-2017-hands-labs/
 * [continuous deployment of a microservices application with Docker](https://github.com/francescou/docker-continuous-deployment)
 * [Logging on Docker](https://vimeo.com/123341629)
 * [A Simple Way To Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
-
+https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/
 
 Use Docker to build, test and push your Artifacts
 https://lostechies.com/gabrielschenker/2016/09/26/use-docker-to-build-test-and-push-your-artifacts/
