@@ -78,7 +78,7 @@
 * [Containerization Proliferation Series](http://www.windowsnetworking.com/articles-tutorials/cloud-computing/containerization-proliferation-docker-effect-part1.html)
 
 # HandonLab
-
+http://training.play-with-docker.com/
 LEARN DOCKER WITH OUR DOCKERCON 2017 HANDS-ON LABS
 https://blog.docker.com/2017/03/dockercon-2017-hands-labs/
 
