@@ -25,6 +25,7 @@ http://www.bogotobogo.com/Hadoop/ELK/ELK_ElasticSearch_Logstash_Kibana4.php
 
 # Install ELK
 * [Easy One](https://github.com/gigi81/elk-windows-installer/releases)
+https://www.codeproject.com/Tips/1083311/ELK-Stack-Install-on-Windows
 
 # ELK - SAMPLES OF ELK ARCHITECTURE
 http://www.bogotobogo.com/Hadoop/ELK/ELK_Architecture_Samples_ElasticSearch_Logstash_Kibana.php
