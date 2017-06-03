@@ -23,6 +23,9 @@ https://logz.io/learn/complete-guide-elk-stack/
 ELK - LOGSTASH, ELASTICSEARCH, AND KIBANA
 http://www.bogotobogo.com/Hadoop/ELK/ELK_ElasticSearch_Logstash_Kibana4.php
 
+# Install ELK
+* [Easy One](https://github.com/gigi81/elk-windows-installer/releases)
+
 # ELK - SAMPLES OF ELK ARCHITECTURE
 http://www.bogotobogo.com/Hadoop/ELK/ELK_Architecture_Samples_ElasticSearch_Logstash_Kibana.php
 
