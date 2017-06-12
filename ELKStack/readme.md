@@ -1,5 +1,15 @@
 # ELK Stack (Now the Elastic Stack)
 
+## Use Cases
+* **CENTRALIZING LOG DATA** - In today’s distributed architecture and micro services environment, it’s crucial to have all the logs from your application, the OS and the infrastructure provider in one place in order to properly monitor and be able to quickly troubleshoot issues. Logz.io keeps all the logs in one place and all are synchronized by time allowing you to quickly get a holistic view of your entire environment.
+* **TROUBLESHOOTING & FORENSICS** - Troubleshooting production issues is perhaps the most common use-case of log analytics. The Logz.io interface (Kibana) lets you search through millions of records to investigate and pinpoint potential issues. You can filter results by server, application or any custom parameter until you reach the the source of the problem. Advanced features such as alerts enable you to get proactive notifications of issues you think are important, helping you to stay on top of evolving problems.
+* **INFRASTRUCTURE MONITORING** - Monitoring your infrastructure can often help with identifying application level issues. We have implemented seamless integration with cloud providers like AWS, Heroku and others to allow you quick and detailed access to your infrastructure. We have also integrated Docker image to collect server level statistics to aid in monitoring.
+* **SECURITY & COMPLIANCE** - Most environments today require a certain level of security protection and compliance. You can use Logz.io to monitor various security threats such as password brute force detection, access control, network access and customized events. You can setup proactive alerts on selected events and create the relevant dashboards to view trends and aggregated data. For compliance purposes using S3 Archiving capabilities can help save data across required data duration.
+* **BUSINESS INTELLIGENCE**- There is a great advantage of using Logz.io’s ELK Cloud service for Business intelligence. The Kibana interface includes a range of visualizations and dashboards to track your environment. By combining application level logs and infrastructure level logs you have unique visibility into the journey your customers are experiencing. You can determine if their response time is affected by application issues and you can detect errors that are otherwise not existent if you only monitor customer interaction.
+
+
+
+
 * The ELK stack consists of Elasticsearch, Logstash, and Kibana. 
 
 * [Welcome to the ELK Stack: Elasticsearch, Logstash, and Kibana](https://qbox.io/blog/welcome-to-the-elk-stack-elasticsearch-logstash-kibana)
