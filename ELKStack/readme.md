@@ -132,3 +132,90 @@ Some successful ELK log analytics use cases include:
 http://i0.wp.com/community.visualize-it.co/wp-content/uploads/2016/02/elk-flow.png
 
 https://wikitech.wikimedia.org/wiki/Logstash#/media/File:Wikipedia_webrequest_flow_2015-10.png
+
+How to Use ELK to Monitor Performance
+https://logz.io/blog/elk-monitor-platform-performance/
+
+NGINX Log Analysis with Elasticsearch, Logstash, and Kibana
+https://logz.io/blog/nginx-log-analysis/
+
+Creating Custom Kibana Visualizations: A How-To Guide
+https://logz.io/blog/kibana-visualizations/
+
+IIS Log Analyzer: Elasticsearch, Logstash, and Kibana
+https://logz.io/blog/iis-log-analyzer/
+
+
+Elasticsearch Cluster Setup & Update: Read, Plan, and Test
+https://logz.io/blog/elasticsearch-cluster-setup/
+
+
+Logstash Tutorial: How to Get Started
+https://logz.io/blog/logstash-tutorial/
+
+
+A Guide to Logstash Plugins
+https://logz.io/blog/logstash-plugins/
+
+
+An Elasticsearch Tutorial: Getting Started
+https://logz.io/blog/elasticsearch-tutorial/
+
+
+A Kibana Tutorial: Part 1 — Getting Started
+https://logz.io/blog/kibana-tutorial/
+
+Redis Performance Monitoring with the ELK Stack
+https://logz.io/blog/redis-performance-monitoring-elk-stack/
+
+
+Apache Log Analyzer: Elasticsearch, Logstash, and Kibana
+https://logz.io/blog/apache-log-analyzer/
+
+https://logz.io/blog/what-is-devsecops/
+
+
+https://logz.io/blog/docker-logging-elk-stack-part-two/
+https://logz.io/blog/docker-logging/
+
+https://logz.io/blog/real-time-analytics/
+
+https://logz.io/blog/bigquery-vs-athena/
+
+
+https://logz.io/blog/machine-learning-log-analytics/
+
+
+
+https://logz.io/blog/log-data-important-for-compliance/
+
+
+https://logz.io/blog/server-log-analysis/
+
+
+https://logz.io/blog/elasticsearch-mapping/
+
+
+https://logz.io/blog/docker-swarm-monitoring-logging-using-elk-stack/
+
+
+https://logz.io/blog/monitor-elasticsearch-graphite-grafana/
+
+https://logz.io/blog/the-cost-of-doing-elk-stack-on-your-own/
+
+https://logz.io/blog/business-intelligence-tools/
+
+
+Technical Debt is a Good Thing
+https://logz.io/blog/technical-debt/
+
+
+How to Use ELK to Monitor Performance
+https://logz.io/blog/elk-monitor-platform-performance/
+
+
+Logz.io Introduces Alerts to the ELK Platform
+https://logz.io/blog/introducing-alerts-for-elk/
+
+# Apps
+https://app.logz.io/#/dashboard/apps
