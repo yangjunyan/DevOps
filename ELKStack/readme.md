@@ -9,6 +9,8 @@
 
 
 
+[!](https://logz.io/wp-content/uploads/2015/09/how-it-work.jpg)
+
 
 * The ELK stack consists of Elasticsearch, Logstash, and Kibana. 
 
