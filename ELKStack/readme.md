@@ -11,6 +11,9 @@
 
 [!](https://logz.io/wp-content/uploads/2015/09/how-it-work.jpg)
 
+10 Elasticsearch Concepts You Need to Learn
+https://logz.io/blog/10-elasticsearch-concepts/
+
 
 * The ELK stack consists of Elasticsearch, Logstash, and Kibana. 
 
