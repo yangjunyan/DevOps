@@ -15,6 +15,10 @@
 https://logz.io/blog/10-elasticsearch-concepts/
 
 
+# Eco System
+Everything You Need to Know About ELK Stack 5.0
+https://logz.io/blog/elk-stack-5-0/
+
 * The ELK stack consists of Elasticsearch, Logstash, and Kibana. 
 
 * [Welcome to the ELK Stack: Elasticsearch, Logstash, and Kibana](https://qbox.io/blog/welcome-to-the-elk-stack-elasticsearch-logstash-kibana)
