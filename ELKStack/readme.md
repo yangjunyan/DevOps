@@ -55,6 +55,9 @@ https://logz.io/learn/complete-guide-elk-stack/
 Logstash Tutorial: How to Get Started
 https://logz.io/blog/logstash-tutorial/
 
+# Conference
+https://www.elastic.co/elasticon/conf/2016/sf
+
 # ELK as a service 
 Elastic
 Qbox
