@@ -6,12 +6,6 @@ A typical continuous integration workflow will contain:
 * Configuring the whole work flow to execute on a continuous basis
 
 
-
-
-
-
-
-
 # A Sample Continuous Integration Workflow
 * Check in Code
 * New Build Is Kicked Off
@@ -22,3 +16,6 @@ A typical continuous integration workflow will contain:
 * Results Are Reported
 * Software Is Packaged
 * Code Is Optionally Deployed (Continuous Deployment)
+
+
+* [5 Best Practices in Continuous Integration](http://www.cigniti.com/blog/continuous-integration-5-best-practices-best-tools-benefits/)
