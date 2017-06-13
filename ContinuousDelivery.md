@@ -126,5 +126,7 @@ https://www.cloudbees.com/sites/default/files/toolchain_3.png
 http://images.techhive.com/images/article/2017/05/programmable-enterprise-100720451-large.jpg
 http://www.infoworld.com/article/3177293/it-management/embracing-continuous-delivery-to-power-the-programmable-enterprise.html#tk.rss_all
 
-
+http://layeredinsight.com/wp-content/uploads/2017/04/GrowthPoint-DevOps-Startup_v2.png
+https://www.flickr.com/photos/softwaretestingclub/7624872214/
+https://image.slidesharecdn.com/sharepointcontinuousintegrationwithvsonlineandazure-140510101655-phpapp01/95/sharepoint-continuous-integration-with-vsonline-azure-espc14-4-638.jpg?cb=1399949644
 https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continuous-delivery/
