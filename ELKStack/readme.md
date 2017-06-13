@@ -34,6 +34,10 @@ https://live-logz-io.pantheonsite.io/learn/complete-guide-elk-stack/
 *Kibana:*  A nifty tool to visualize logs and timestamped data.
 
 
+http://elk.mesosframeworks.com/
+
+https://github.com/deviantony/docker-elk
+
 * [Learn](https://www.elastic.co/guide/index.html)
 ![1](http://kmdpoland.pl/wp-content/uploads/2016/09/diagram1-1024x199.jpg)
 
