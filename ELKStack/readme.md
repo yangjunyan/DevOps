@@ -223,3 +223,16 @@ https://logz.io/blog/introducing-alerts-for-elk/
 
 # Apps
 https://app.logz.io/#/dashboard/apps
+
+
+
+LOGSTASH Cheat Sheet
+https://www.snip2code.com/Snippet/726129/This-is-a-LOGSTASH-Cheat-Sheet
+
+ Elasticsearch Cheatsheet
+http://elasticsearch-cheatsheet.jolicode.com/
+https://rayhon.gitbooks.io/tech-blog/content/elasticsearch-cheatsheet.html
+
+kibana-cheat-sheet
+https://snitchhunt.org/kibana-cheat-sheet
+https://drive.google.com/file/d/0B2S_IOa0MiOHWndxWFRiUHNoNW8/view
