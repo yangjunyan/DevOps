@@ -19,3 +19,5 @@ A typical continuous integration workflow will contain:
 
 
 * [5 Best Practices in Continuous Integration](http://www.cigniti.com/blog/continuous-integration-5-best-practices-best-tools-benefits/)
+
+https://dzone.com/refcardz/continuous-integration
