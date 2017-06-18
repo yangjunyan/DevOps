@@ -1,4 +1,20 @@
 http://www.solarwinds.com/server-application-monitor
+http://www.bestdevops.com/how-to-deploy-java-apps-with-docker/
+http://www.bestdevops.com/exception-handling-a-best-practice-guide/
+
+
+http://www.bestdevops.com/3-git-hooks-for-continuous-integration/
+http://www.bestdevops.com/13-benefits-you-will-get-by-using-test-driven-development/
+
+30 common challenges to DevOps and how to resolve them
+http://www.bestdevops.com/30-common-challenges-to-devops-and-how-to-resolve-them/
+
+http://www.bestdevops.com/accessibility-test-automation-in-devops-environment/
+
+http://www.bestdevops.com/the-real-business-benefits-of-devops/
+
+10 critical skills that every DevOps engineer needs for success
+http://www.bestdevops.com/10-critical-skills-that-every-devops-engineer-needs-for-success/
 
 
 Optimizing Streaming Media Performance: 7 Things You Need to Monitor 
