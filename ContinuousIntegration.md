@@ -17,6 +17,7 @@ A typical continuous integration workflow will contain:
 * Software Is Packaged
 * Code Is Optionally Deployed (Continuous Deployment)
 
+https://dzone.com/refcardz/continuous-integration
 
 * [5 Best Practices in Continuous Integration](http://www.cigniti.com/blog/continuous-integration-5-best-practices-best-tools-benefits/)
 
