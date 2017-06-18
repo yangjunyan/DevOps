@@ -10,25 +10,28 @@ Continuous Integration is the first stepping stone in Continuous Delivery Pipeli
 * **Code Commit:** Code changes must be pushed to central repository multiple times a day or at least once a day to the main line.
 
 2. Manage Software Binaries:
- **Binary Repository Manager: Software Binaries must be centralized using the Binary repository manager, and software dependencies between teams must be seamlessly shared.
-Vulnerabilities and Compliance: Software Binaries must be scanned for security vulnerabilities and license compliance. The build should be failed if vulnerabilities are found in software binaries.
-Publish Builds: Build artifacts should be published to a Binary repository to be able to share seamlessly with dependent module builds.
-Deployment Automation: Deployment of build artifacts to environments should happen from the binary repository for better security and reliability.
+* **Binary Repository Manager:** Software Binaries must be centralized using the Binary repository manager, and software dependencies between teams must be seamlessly shared.
+* **Vulnerabilities and Compliance:** Software Binaries must be scanned for security vulnerabilities and license compliance. The build should be failed if vulnerabilities are found in software binaries.
+* **Publish Builds:** Build artifacts should be published to a Binary repository to be able to share seamlessly with dependent module builds.
+* **Deployment Automation:** Deployment of build artifacts to environments should happen from the binary repository for better security and reliability.
 
-Build Automation:
-VCS Trigger: Builds must be triggered for every code change done in source control repository.
-Unit Tests and Static Code Analysis: Static Code Analysis and Unit Tests must be run for every check-in.
-CI Job as code: Build configuration must be maintained as the code.
-Feedback: Notifications must be sent to developers on build failures, SCA criteria not met, and Unit Tests Failure, Security Vulnerabilities, and License Compliance.
-Reduce Build Time:
-Modularizing code and Micro Services: Independently buildable components must be identified and the builds simplified by executing them in smaller sizes to minimize the Build time.
-Dependency Management: Binaries from Binary Repository Manager setup must be resolved behind the company firewall to reduce the time taken to download from external portals.
-Collocation of machines and repositories: Build machines, source code repository and Binary repository must be collocated – this creates the least network latency for pulling source code and Binaries.
-Automate Deployment and Tests:
-Automated Environment: Environment Provisioning and Configuration management using tools with code from Version control repository must be used.
-Deployment Automation: Deployment must be automated by identifying simple steps, configuring entire workflows, and implementing the flow using script or tool.
-CI Build Tested: The CI Build must be self-tested in a production like environment.
-5 Top Tools to Build Scalable CI
+3. Build Automation:
+* **VCS Trigger:** Builds must be triggered for every code change done in source control repository.
+* **Unit Tests and Static Code Analysis:** Static Code Analysis and Unit Tests must be run for every check-in.
+* **CI Job as code:** Build configuration must be maintained as the code.
+* **Feedback:** Notifications must be sent to developers on build failures, SCA criteria not met, and Unit Tests Failure, Security Vulnerabilities, and License Compliance.
+
+4. Reduce Build Time:
+* **Modularizing code and Micro Services:** Independently buildable components must be identified and the builds simplified by executing them in smaller sizes to minimize the Build time.
+* **Dependency Management:** Binaries from Binary Repository Manager setup must be resolved behind the company firewall to reduce the time taken to download from external portals.
+* **Collocation of machines and repositories:** Build machines, source code repository and Binary repository must be collocated – this creates the least network latency for pulling source code and Binaries.
+
+5.Automate Deployment and Tests:
+* **Automated Environment:** Environment Provisioning and Configuration management using tools with code from Version control repository must be used.
+* **Deployment Automation:** Deployment must be automated by identifying simple steps, configuring entire workflows, and implementing the flow using script or tool.
+* **CI Build Tested:** The CI Build must be self-tested in a production like environment.
+
+# 5 Top Tools to Build Scalable CI
 Today, there are multiple tools available in the market that help build a scalable Continuous Integration practice. Following is a list of 5 well known and robust tools:
 
 CircleCI: It is one of the SAAS-based CI servers for simple setups. CircleCI is the best CI/CD solution for teams who want to build faster, ship more, and fail less at any scale.
