@@ -363,6 +363,7 @@ https://www.youtube.com/watch?v=PheuDcnWS_c
 # Workshop
 http://dtosolutions.com/devops/devops-workshops/
 
+https://www.sonatype.com/all-day-devops-ondemand?submissionGuid=614e059d-3941-46a3-b759-fd07072b04b7
 
 Getting Started with Secure DevOps
 https://devops.com/getting-started-secure-devops/
